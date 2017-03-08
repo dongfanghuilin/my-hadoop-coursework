@@ -1,0 +1,1286 @@
+﻿NP_001248143 ,        1 madfddrvsd eekvriaakf ithappgefn evfndvrlll nndnllrega ahafaqynmd
+NP_001248143 ,       61 qftpvkiegy edqvlitehg dlgnsrfldp rnkisfkfdh lrkeasdpqp eevdgglksw
+NP_001248143 ,      121 rescdsalra yvkdhysngf ctvyaktidg qqtiiacies hqfqpknfwn grwrsewkft
+NP_001248143 ,      181 itpptaqvvg vlkiqvhyye dgnvqlvshk dvqdsltvsn eaqtakefik iienaeneyq
+NP_001248143 ,      241 taisenyqtm sdttfkalrr qlpvtrtkid wnkilsykig kemqna
+NP_004093 ,1 mvdaflgtwk lvdsknfddy mkslgvgfat rqvasmtkpt tiiekngdil tlkthstfkn
+NP_004093 ,       61 teisfklgve fdettaddrk vksivtldgg klvhlqkwdg qettlvreli dgkliltlth
+NP_004093 ,      121 gtavctrtye kea
+NP_006126, 1 madfddrvsd eekvriaakf ithappgefn evfndvrlll nndnllrega ahafaqynmd
+NP_006126,       61 qftpvkiegy edqvlitehg dlgnsrfldp rnkisfkfdh lrkeasdpqp eeadgglksw
+NP_006126,      121 rescdsalra yvkdhysngf ctvyaktidg qqtiiacies hqfqpknfwn grwrsewkft
+NP_006126,      181 itpptaqvvg vlkiqvhyye dgnvqlvshk dvqdsltvsn eaqtakefik iienaeneyq
+NP_006126,      241 taisenyqtm sdttfkalrr qlpvtrtkid wnkilsykig kemqna
+NP_001223,1 mkrthlfivg iyflsscrae eglnfptydg kdrvvslsek nfkqvlkkyd llclyyhepv
+NP_001223,       61 ssdkvtqkqf qlkeivlelv aqvlehkaig fvmvdakkea klakklgfde egslyilkgd
+NP_001223,      121 rtiefdgefa advlveflld liedpveiis sklevqafer iedyikligf fksedseyyk
+NP_001223,      181 afeeaaehfq pyikffatfd kgvakklslk mnevdfyepf mdepiaipnk pyteeelvef
+NP_001223,      241 vkehqrptlr rlrpeemfet weddlngihi vafaeksdpd gyefleilkq vardntdnpd
+NP_001223,      301 lsilwidpdd fpllvaywek tfkidlfrpq igvvnvtdad svwmeipddd dlptaeeled
+NP_001223,      361 wiedvlsgki ntedddeddd dddnsdeedn ddsddddde
+NP_004921,1 msdqqldcal dlmrrlppqq ieknlsdlid lvpslcedll ssvdqplkia rdkvvgkdyl
+NP_004921,       61 lcdynrdgds yrspwsnkyd ppledgamps arlrklevea nnafdqyrdl yfeggvssvy
+NP_004921,      121 lwdldhgfag vilikkagdg skkikgcwds ihvvevqeks sgrtahyklt stvmlwlqtn
+NP_004921,      181 ksgsgtmnlg gsltrqmekd etvsdcsphi anigrlvedm enkirstlne iyfgktkdiv
+NP_004921,      241 nglrsvqtfa dkskqealkn dlvealkrkq qc
+NP_001222, 1 msatdrmgpr avpglrlall lllvlgtpks gvqgqegldf peydgvdrvi nvnaknyknv
+NP_001222,       61 fkkyevlall yheppeddka sqrqfemeel ilelaaqvle dkgvgfglvd sekdaavakk
+NP_001222,      121 lgltevdsmy vfkgdeviey dgefsadtiv eflldvledp veliegerel qafeniedei
+NP_001222,      181 kligyfkskd sehykafeda aeefhpyipf fatfdskvak kltlklneid fyeafmeepv
+NP_001222,      241 tipdkpnsee eivnfveehr rstlrklkpe smyetweddm dgihivafae eadpdgfefl
+NP_001222,      301 etlkavaqdn tenpdlsiiw idpddfpllv pywektfdid lsapqigvvn vtdadsvwme
+NP_001222,      361 mddeedlpsa eeledwledv legeintedd dddddd
+NP_001127090, 1 madfddrvsd eekvriaakf ithappgefn evfndvrlll nndnllrega ahafalynmd
+NP_001127090,       61 qftpvkiegy edqvlitehg dlgnsrfldp rnkisfkfdh lrkeasdpqp eevdgglksw
+NP_001127090,      121 rescdsalra yvkdhysngf ctvyaktidg qqtiiacies hqfqpknfwn grwrsewkft
+NP_001127090,      181 itpptaqvvg vlkiqvhyye dgnvqlvshk dvqdsltvsn eaqtakefik iienaeneyq
+NP_001127090,      241 taisenyqtm sdttfkalrr qlpvtrtkid wnkilsykig kemqna
+NP_001125686,1 mkrthlfivg vyvlsscrae eglnfptydg kdrvvslsek nfkqvlkkyd llclyyhepv
+NP_001125686,       61 ssdkvaqkqf qlkeivlelv aqvlehkaig fvmvdakkea klakklgfde egslyilkgd
+NP_001125686,      121 rtiefdgefa advlveflld liedpveiis sklevqafer iedyikligf fksgdseyyk
+NP_001125686,      181 afeeaaehfq pyikffatfd kgvakklslk mnevdfyepf mdepiaipnk pyteeelvef
+NP_001125686,      241 vkehqrptlr rlrpeemfet weddlngihi vafaeksdpd gyefleilkq vardntdnpd
+NP_001125686,      301 lsilwidpdd fpllvaywek tfkidlfrpq igvvnvtdad svwmeipddd dlptaeeled
+NP_001125686,      361 wiedvlsgki nteddddedd dddnsdeedn ddsdddddde
+NP_001127638,1 msdqqldcal dlmrrlppqq ieknlsdlid lvpslcedll ssvdqplkia rdkvvgkdyl
+NP_001127638,       61 lcdynrdgds yrspwsnkyd ppledgamps arlrklevea nnafdqyrdl yfeggvssvy
+NP_001127638,      121 lwdldhgfag vilikkagdg skkikgcwds ihvvevqeks sgrtahyklt stvmlwlqtn
+NP_001127638,      181 ksgsgtmnlg gsltrqmekd etvsdcsphi anigrlvedm enkirstlne iyfgktkdiv
+NP_001127638,      241 nglrsvqtfa dkskqealkn dlvealkrkq qc
+NP_001193469 , 1 msdqqldcal dlmrrlppqq ieknlsdlid lvpslcedll ssvdqplkia rdkvvgkdyl
+NP_001193469 ,       61 lcdynrdgds yrspwsnkyd ppledgamps arlrklevea nnafdqyrdl yfeggvssvy
+NP_001193469 ,      121 lwdldhgfag vilikkagdg skkikgcwds ihvvevqeks sgrtahyklt stvmlwlqtn
+NP_001193469 ,      181 ksgsgtmnlg gsltrqmekd etvsdcsphi anigrlvedm enkirstlne iyfgktkdiv
+NP_001193469 ,      241 nglrsidaip dnqkfkqlqr elsqvltqrq iyiqpdn
+NP_005252, 1 mtlnnvtmrq gtvgmqpqqq rwsipadgrh lmvqkephqy shrnrhsatp edhcrrswss
+NP_005252,       61 dstdsvisse sgntyyrvvl igeqgvgkst lanifagvhd smdsdcevlg edtyertlmv
+NP_005252,      121 dgesatiill dmwenkgene wlhdhcmqvg daylivysit drasfekase lriqlrrarq
+NP_005252,      181 tedipiilvg nksdlvrcre vsvsegraca vvfdckfiet saavqhnvke lfegivrqvr
+NP_005252,      241 lrrdskekne rrlayqkrke smprkarrfw gkivaknnkn mafklksksc hdlsvl
+NP_859053,1 mtlnnvtmrq gtvgmqpqqq rwsipadgrh lmvqkephqy shrnrhsatp edhcrrswss
+NP_859053,       61 dstdsvisse sgntyyrvvl igeqgvgkst lanifagvhd smdsdcevlg edtyertlmv
+NP_859053,      121 dgesatiill dmwenkgene wlhdhcmqvg daylivysit drasfekase lriqlrrarq
+NP_859053,      181 tedipiilvg nksdlvrcre vsvsegraca vvfdckfiet saavqhnvke lfegivrqvr
+NP_859053,      241 lrrdskekne rrlayqkrke smprkarrfw gkivaknnkn mafklksksc hdlsvl
+NP_001126848,1 mtlnnvtmrq gtvgmqpqqq rwsipadgrh lmvqkephqy shrnrhsatp edhcrrswss
+NP_001126848,       61 dstdsvisse sgntyyrvvl igeqgvgkst lanifagvhd smdsdcevlg edtyertlmv
+NP_001126848,      121 dgesatiill dmwenkgene wlhdhcmqvg daylivysit drasfekase lriqlrrarq
+NP_001126848,      181 tedipiilvg nksdlvrcre vsvsegrtca vvfdckfiet saavqhnvke lfegivrqvr
+NP_001126848,      241 lrrdskekne rrlayqkrke smprkarrfw gkivaknnkn mafklksksc hdlsvl
+NP_201585,1 mtlsvlsrkd kervirrlll qappgefvna fddlcllird eklmhhqgec aghqhcqkys
+NP_201585,       61 vplcidgnpv llshhnvmgd yrffdhqskl sfkydllqnq lkdiqshgii qneaeylrvv
+NP_201585,      121 llcalklyvn dhypkgncnm lrktvkskey liaciedhny etgecwnglw kskwifqvnp
+NP_201585,      181 fltqvtgrif vqahffrcvn lhieiskdlk esleivnqaq lalsfarlve eqenkfqaav
+NP_201585,      241 leelqelsne alrkilrrdl pvtrtlidwh rilsdlnlvm ypklgyviys rsvlcnwii
+NP_001233504,1 mtlsvlsrkd kervirrlll qappgefvna fddlcllird eklmhhqgec aghqhcqkys
+NP_001233504,       61 vplcidgnpv llshhnvmgd yrffdhqskl sfkydllqnq lkdiqshgii qneaeylrvv
+NP_001233504,      121 llcalklyvn dhypkgncnv lrktvkskey liaciedhny etgecwnglw kskwifqvnp
+NP_001233504,      181 fltqvtgrif vqahffrcvn lhieiskdlk esleivnqaq lalsfarlve eqenkfqaav
+NP_001233504,      241 leelqelsne alrkilrrdl pvtrtlidwh rilsdlnlvm ypklgyviys rsvlcnwii
+NP_001001937,1 mlsvrvaaav vralprragl vsrnalgssf iaarnfhasn thlqktgtae mssileeril
+NP_001001937,       61 gadtsvdlee tgrvlsigdg iarvhglrnv qaeemvefss glkgmslnle pdnvgvvvfg
+NP_001001937,      121 ndklikegdi vkrtgaivdv pvgeellgrv vdalgnaidg kgpigsktrr rvglkapgii
+NP_001001937,      181 prisvrepmq tgikavdslv pigrgqreli igdrqtgkts iaidtiinqk rfndgsdekk
+NP_001001937,      241 klyciyvaig qkrstvaqlv krltdadamk ytivvsatas daaplqylap ysgcsmgeyf
+NP_001001937,      301 rdngkhalii yddlskqava yrqmslllrr ppgreaypgd vfylhsrlle raakmndafg
+NP_001001937,      361 ggsltalpvi etqagdvsay iptnvisitd gqifletelf ykgirpainv glsvsrvgsa
+NP_001001937,      421 aqtramkqva gtmklelaqy revaafaqfg sdldaatqql lsrgvrltel lkqgqyspma
+NP_001001937,      481 ieeqvaviya gvrgyldkle pskitkfena flshvvsqhq allgtiradg kiseqsdakl
+NP_001001937,      541 keivtnflag fea
+NP_001126846 , 1 mlsvrvaaav vralprragl vsrnalgssf iaarnfhasn thlqktgtae mssileeril
+NP_001126846 ,       61 gadtsvdlee tgrvlsigdg iarvhglrnv qaeemvefss glkgmslnle pdnvgvvvfg
+NP_001126846 ,      121 ndklikegdi vkrtgaivdv pvgeellgrv vdalgnaidg kgpissktrr rvglkapgii
+NP_001126846 ,      181 prisvrepmq tgikavdslv pigrgqreli igdrqtgkts iaidtiinqk rfndgsdekk
+NP_001126846 ,      241 klyciyvaig qkrstvaqlv krltdadamk ytivvsatas daaplqylap ysgcsmgeyf
+NP_001126846 ,      301 rdngkhalii yddlskqava yrqmslllrr ppgreaypgd vfylhsrlle raakmndafg
+NP_001126846 ,      361 ggsltalpvi etqagdvsay iptnvisitd gqifletelf ykgirpainv glsvsrvgsa
+NP_001126846 ,      421 aqtramkqva gtmklelaqy revaafaqfg sdldaatqql lsrgvrltel lkqgqyspma
+NP_001126846 ,      481 ieeqvaviya gvrgyldkle pskitkfena flshvvsqhq allgtiradg kiseqsdakl
+NP_001126846 ,      541 keivtnflag fea
+NP_001253341, 1 mlsvrvaaav vralprragl vsrnalgssf iaarnlhasn thlqktgtae mssileeril
+NP_001253341,       61 gadisvdlee tgrvlsigdg iarvhglrnv qaeemvefss glkgmslnle sdnvgvvvfg
+NP_001253341,      121 ndklikegdi vkrtgaivdv pvgeellgrv vdalgnaidg kgpigsktrr rvglkapgii
+NP_001253341,      181 prisvrepmq tgikavdslv pigrgqreli igdrqtgkts iaidtiinqk rfndgsdekk
+NP_001253341,      241 klyciyvaig qkrstvaqlv krltdadamk ytivvsatas daaplqylap ysgcsmgeyf
+NP_001253341,      301 rdngkhalii yddlskqava yrqmslllrr ppgreaypgd vfylhsrlle raakmndafg
+NP_001253341,      361 ggsltalpvi etqagdvsay iptnvisitd gqifletelf ykgirpainv glsvsrvgsa
+NP_001253341,      421 aqtramkqva gtmklelaqy revaafaqfg sdldaatqql lsrgvrltel lkqgqyspma
+NP_001253341,      481 ieeqvaviya gvrgyldkle pskitkfena flshvisqhq allgtiradg kiseesdakl
+NP_001253341,      541 keivtkflag fea
+NP_061008 , 1 memassagsw lsgcliplvf lrlsvhvsgh agdagkfhva llggtaellc plslwpgtvp
+NP_061008 ,       61 kevrwlrspf pqrsqavhif rdgkdqdedl mpeykgrtvl vrdaqegsvt lqildvrled
+NP_061008 ,      121 qgsyrcliqv gnlskedtvi lqvaapsvgs lspsavalav ilpvlvllim vclcliwkqr
+NP_061008 ,      181 rakekllyeh vtevdnllsd hakekgklhk avkklrselk lkraaansgw rrarlhfvav
+NP_061008 ,      241 tldpdtahpk lilsedqrcv rlgdrrqpvp dnpqrfdfvv silgseyftt gchywevyvg
+NP_061008 ,      301 dktkwilgvc sesvsrkgkv taspanghwl lrqsrgneye altspqtsfr lkepprcvgi
+NP_061008 ,      361 fldyeagvis fynvtnkshi ftfthnfsgp lrpffepclh dggkntaplv icselhksee
+NP_061008 ,      421 sivprpegkg hangdvslkv nssllppkap elkdiilslp pdlgpalqel kapsf
+NP_001017922,1 memassagsw lsgcliplvf lrlsvhvsgh agdagkfhva llggtaellc plslwpgtvp
+NP_001017922,       61 kevrwlrspf pqrsqavhif rdgkdqdedl mpeykgrtvl vrdaqegsvt lqildvrled
+NP_001017922,      121 qgsyrcliqv gnlskedtvi lqvaapsvgs lspsavalav ilpvlvllim vclcliwkqr
+NP_001017922,      181 rakekllyeh vtevdnllsd hakekgklhk avkklrselk lkraaansgw rrarlhfvav
+NP_001017922,      241 tldpdtahpk lilsedqrcv rlgdrrqpvp dnpqrfdfvv silgseyftt gchywevyvg
+NP_001017922,      301 dktkwilgvc sesvsrkgkv taspanghwl lrqsrgneye altspqtsfr lkepprcvgi
+NP_001017922,      361 fldyeagvis fynvtnkshi ftfthnfsgp lrpffepclh dggkntaplv icselhksee
+NP_001017922,      421 sivprpegkg hangdvslkv nssllppkap elkdiilslp pdlgpalqel kapsf
+NP_000333 , 1 meelqddyed mmeenleqee yedpdipesq meepaahdte atatdyhtts hpgthkvyve
+NP_000333 ,       61 lqelvmdekn qelrwmeaar wvqleenlge ngawgrphls hltfwsllel rrvftkgtvl
+NP_000333 ,      121 ldlqetslag vanqlldrfi fedqirpqdr eellralllk hshageleal ggvkpavltr
+NP_000333 ,      181 sgdpsqpllp qhssletqlf ceqgdggteg hspsgileki ppdseatlvl vgradfleqp
+NP_000333 ,      241 vlgfvrlqea aeleavelpv pirflfvllg peaphidytq lgraaatlms ervfridaym
+NP_000333 ,      301 aqsrgellhs legfldcslv lpptdapseq allslvpvqr ellrrryqss pakpdssfyk
+NP_000333 ,      361 gldlnggpdd plqqtgqlfg glvrdirrry pyylsditda fspqvlaavi fiyfaalspa
+NP_000333 ,      421 itfggllgek trnqmgvsel listavqgil fallgaqpll vvgfsgpllv feeaffsfce
+NP_000333 ,      481 tngleyivgr vwigfwlill vvlvvafegs flvrfisryt qeifsflisl ifiyetfskl
+NP_000333 ,      541 ikifqdhplq ktynynvlmv pkpqgplpnt allslvlmag tfffammlrk fknssyfpgk
+NP_000333 ,      601 lrrvigdfgv pisilimvlv dffiqdtytq klsvpdgfkv snssargwvi hplglrsefp
+NP_000333 ,      661 iwmmfasalp allvfilifl esqittlivs kperkmvkgs gfhldlllvv gmggvaalfg
+NP_000333 ,      721 mpwlsattvr svthanaltv mgkastpgaa aqiqevkeqr isgllvavlv glsilmepil
+NP_000333 ,      781 sriplavlfg iflymgvtsl sgiqlfdril llfkppkyhp dvpyvkrvkt wrmhlftgiq
+NP_000333 ,      841 iiclavlwvv kstpaslalp fvliltvplr rvllplifrn velqcldadd akatfdeeeg
+NP_000333 ,      901 rdeydevamp v
+NP_001127339, 1 mdeknqelrw meaarwvrle enlgengawg rphlshltfw sllelhkvft kgtvlldlqe
+NP_001127339,       61 tslagvanql ldrfifedqi rpqdrdellr alllkhshag elealggvkp avltrsgdps
+NP_001127339,      121 qpllpqhssl etqlfceqgd ggteghlpsg ilekippdse atlvlvgrai fleepvlgfv
+NP_001127339,      181 rlqeaaelea velpvpvrfl fvllgpeaph idytqlgraa atlmservfr veafvaqsra
+NP_001127339,      241 ellrslegfl dcslvlpptd apseqallsl vpvqrellrr ryqpspakpd stfykgldsn
+NP_001127339,      301 gglggpggpd dplqqtgqff gglvrdirrr ypyylsditd afspqvlaav ifiyfaalsp
+NP_001127339,      361 aitfggllge ktrnqmgvse llistavqgi lfallgaqpl lvvgfsgpll vfeeaffsfc
+NP_001127339,      421 esngleyivg rvwigfwlil lvvlvvafeg sflvrfisry tqeifsflis lifiyetfsk
+NP_001127339,      481 likifqdhpl qktydhnvlm vpkpqgplpn tallslvlma gtfffammlr kfknssyfpg
+NP_001127339,      541 klrrvigdfg vpisilimvl vdffiqdtyt qklsvpdgfk vsnssarswv ihplglrshf
+NP_001127339,      601 piwmmfasal pallvfilif lesqittliv skperkmvkg sgfhldlllv vgmggvaalf
+NP_001127339,      661 gmpwlsattv rsvthanalt vmgkastpga aaqiqevkeq risgllvavl vglsilmepi
+NP_001127339,      721 lsriplavlf giflymgvts lsgiqlfdri lllfkppkyh pdvpyvkrvk twrmhlftgi
+NP_001127339,      781 qiiclavlwv vkstpaslal pfvliltvpl rrvllpcifr nlelqcldad dakatfdeee
+NP_001127339,      841 grdeydevam pv
+NP_001027994, 1 mgefnekktt cgtvclkyll ftynccfwla glavmavgiw tlalksdyis llasgtylat
+NP_001027995,       61 ayilvvagav vmvtgvlgcc atfkerrnll rlyfilllii flleiiagvl ayvyyqqlnt
+NP_001027996,      121 elkenlkdtm akryhqpghe avtsavdqlq qefhccgsnn sqdwrdsewi rlreargrvv
+NP_001027997,      181 pdsccktvva gcgqrdhafn iykveggfit kletfiqehl rvigavgtgi acvqvfgmif
+NP_001027998,      241 tcclyrslkl ehy
+NP_001128860, 1 maaalfvllg fallgthgas gaagtvfttv edlgskillt cslndsatev tghrwlkggv
+NP_001128860,       61 vlkedalpgq ktefkvdsdd qwgeyscvfl pepmgtaniq lhgpprvkav kssehinege
+NP_001128860,      121 tamlvckses vppvtdwawy kitdsedkal mngsesrffv sssqgrselh ienlnmeadp
+NP_001128860,      181 gqyrcngtss kgsdqaiitl rvrshlaalw pflgivaevl vlvtiifiye krrkpedvld
+NP_001128860,      241 dddagsaplk ssgqhqndkg knvrqrnss
+NP_003607 ,1 mrraelaglk tmawvpaesa veelmprllp vepcdltegf dpsvpprtpq eylrrvqiea
+NP_003607 ,       61 aqcpdvvvaq idpkklkrkq svnislsgcq papegysptl qwqqqqvaqf stvrqnvnkh
+NP_003607 ,      121 rshwksqqld snvtmpksed eegwkkfclg eklcadgavg patnespgid yvqigfppll
+NP_003607 ,      181 sivsrmnqat vtsvleylsn wfgerdftpe lgrwlyalla clekpllpea hslirqlarr
+NP_003607 ,      241 csevrllvds kddervpaln lliclvsryf dqrdladeps
+NP_001009182,1 mrraelaglk tmawvpaesa veelmprllp vepcdltegf dpsvpprtpq eylrrvqiea
+NP_001009182,       61 aqcpdvvvaq idpkklkrkq svnislsgcq papegysptl qwqqqqvaqf stvrqnvnkh
+NP_001009182,      121 rshwksqqld snvtmpksed eegwkkfclg eklcadgavg patnespgid yvqatvtsvl
+NP_001009182,      181 eylsnwfger dftpelgrwl yallaclekp llpeahslir qlarrcsevr llvdskdder
+NP_001009182,      241 vpalnllicl vsryfdqrdl adeps
+NP_001009183,  1 mrraelaglk tmawvpaesa veelmprllp vepcdltegf dpsvpprtpq eylrrvqiea
+NP_001009184,       61 aqcpdvvvaq idpkklkrkq svnislsgcq papegysptl qwqqqqvaqf stvrqnvnkh
+NP_001009185,      121 rshwksqqld snvtmpksed eegwkkfclg eklcadgavg patnespgid yvqigfppll
+NP_001009186,      181 sivsrmnqat vtsvleylsn wfgerdftpe lgrwlyalla clekpllpea hslirqlarr
+NP_001009187,      241 csevrllvvf
+NP_001244348, 1 mesfssksla lqaekkllsk magrsvahlf idetssevld elyrvskeyt hsrpqaqrvi
+NP_001244348,       61 kdlikvavkv avlhrngsfg pselalatrf rqklrqgamt alsfgevdft feaavlagll
+NP_001244348,      121 tecrdvllel vehhltpksh grirhvfdhf sdpglltaly gpdftqhlgk icdglrklld
+NP_001244348,      181 egkl
+NP_001244368, 1 mdrsaefrkw kaqclskadl srkgsvdkdv velvqflntr dqffttssca grillldggi
+NP_001244368,       61 ngfevqkqnc gwllvthkpc ekddvivalk kangdatlkf epfilhvqcq qlqdarilhs
+NP_001244368,      121 vaidsgfrns gitvgkrgki mlavrsthgl evplshkgkl mvteeyidfl lnvanqkmee
+NP_001244368,      181 nkkrierfyn clhhaleret mtnlhpkike knnssythkk qrnpekahaq citkendkel
+NP_001244368,      241 enddddlgin itifpegy
+NP_001244386, 1 mkavkserer gsrrrhrdgd mvlpagvvvk qerlspevap pahrrpdhsg gspspptsep
+NP_001244386,       61 grpghrgnra rgvsrsppkk knkssgrrsk sprskrnrsp hystvkvkqe redhprrgre
+NP_001244386,      121 drqhrepseq ehrrarksdr yrhrghshqr rtsnerpgsg qgqgrerdtq nlqaqeeere
+NP_001244386,      181 fynarrrehr qrndiggggs esqelvprpg gnnkekevpa kekpsyelsg alledtntfr
+NP_001244386,      241 gvvikysepp earipkkrwr lypfkndevl pvmyihrqsa yllgrhrria dipidhpscs
+NP_001244386,      301 kqhavfqyrl veytradgtv grrvkpyiid lgsgngtfln nkriepqryy elkekdvlkf
+NP_001244386,      361 gfssreyvll hessdtseid rkddedeeee eevsds
+NP_001244389, 1 mapsedrrdw ranlkgtire tgletssggk laghqktvpt ahltfvidct qgrqlslaat
+NP_001244389,       61 asppqapsps qglvtppmkt ylvfcgenwp hltrvtpmgg gclaqaratl plcrgaataa
+NP_001244389,      121 sfpvsplcpq evpeakekpv kavpvrsspw gtvkdslkal sscvcgqad
+NP_001244450, 1 msqpkkrkle sggggeggeg aeeedgaere aalerprrtk rerdqlyyec ysdvsvheem
+NP_001244450,       61 iadrvrtday rlgilrnwaa lrgktvldvg agtgilsifc aqagarrvya veasaiwqqa
+NP_001244450,      121 revvrfngle drvhvlpgpv etvelpeqvd aivsewmgyg llhesmlssv lhartkwlke
+NP_001244450,      181 gglllpasae lfiapisdqm lewrlgfwsq vkqhygvdms clegfatrcl mghseivvqg
+NP_001244450,      241 lsgedvlarp qrfaqlelsr agleqeleag vggrfrcscy gsapmhgfai wfqvtfpgge
+NP_001244450,      301 sekplvlsts pfhpathwkq allylnepvq veqdtdvsge itllpsrdnp rrlrvllryk
+NP_001244450,      361 vgdqeektkd famed
+NP_001244550, 1 mrllafvvla lfavtqaeeg arllasksll nryavegrdl tlqyniynvg ssaaldvels
+NP_001244550,       61 ddsfppedfg ivsgmlnvkw driapasnvs htvvlrplka gyfnftsati tylaqedgpv
+NP_001244550,      121 vigstsapgq ggilaqrefd rrfsphfldw aafgvmtlps igiplllwys skrkydtpkt
+NP_001244550,      181 kkn
+NP_001244557,1 mamqekypte gishitspss nviqkgsslg tewqtpvise pfrsrfsrcs svadsgdtai
+NP_001244557,       61 gtscsdiaed fcsssssppf qpikshvtip tahvmpstlg tspakpnstp vgpsssklpl
+NP_001244557,      121 sglaesvgmt rngdlgamkl spglsrdlvy lsgapgengi eqswfpavgh erqeearkfd
+NP_001244557,      181 ipsmdstlnq sammetlysd phhrvrfhnp rtstskelyk vlpeakkapg sgavferngp
+NP_001244557,      241 hsnssgvlpl glqpapglsk plpsqvwqps pdtwhpreqs celstcrqql elirlqmeqm
+NP_001244557,      301 qlqngaichh paafapslpi lepaqwisil nsnehllkek ellidkqrkh isqleqkvre
+NP_001244557,      361 selqvhsall grpapfgdvc llrlqelqre ntflraqfaq ktealsreki dlekklsase
+NP_001244557,      421 vevqliresl kvalqkhsee vkkqeervkg rdkhinnlkk kcqkeseqnr ekqqrietle
+NP_001244557,      481 ryladlptle dhqkqsqqlk dselkstelq ekvtelesll eetqaicrdr etqleslrqr
+NP_001244557,      541 eaefssaghs lqdkqsveet sgegpeveme swqkqydslq kivekqqqkm dqlrsqvqsl
+NP_001244557,      601 eqevaqeegt sqalreeaqr rdsalqqlrt avkelsvqnq dlieknltlq ehlrqaqpgs
+NP_001244557,      661 ppspdtaqla lelyqelasc lqdlqavcsi vtqraqghdp nlslllgihs aqhpetqldl
+NP_001244557,      721 qkpdvikrkl eevqqlrrdi edlrttmsdr yaqdmgencv tq
+NP_001244809,1 mqtikcvvvg dgavgktcll isyttnkfps eyvptvfdny avtvmiggep ytlglfdtag
+NP_001244809,       61 qedydrlrpl sypqtdvflv cfsvvspssf envkekwvpe ithhcpktpf llvgtqidlr
+NP_001244809,      121 ddpstiekla knkqkpitpe taeklardlk avkyvecsal tqkglknvfd eailaalepp
+NP_001244809,      181 epkksrrcvl l
+NP_001245217,1 matkcgncgp gystpleamk gpreeivylp ciyrntgtea pdylatvdvd pkspqycqvi
+NP_001245217,       61 epkdihakce laflhtshcl asgevmissl gdvkgngkgg fvlldgetfe vkgtwerpgg
+NP_001245217,      121 aaplgydfwy qprhnvmist ewaapnvlrd gfnpadveag lygshlyvwd wqrheivqtl
+NP_001245217,      181 slkdgliple irflhnpdaa qgfvgcalss tiqrfykneg gtwsvekviq vppkkvkgwl
+NP_001245217,      241 lpempglitd illslddrfl yfsnwlhgdl rqydisdpqr prltgqlflg gsivkggpvq
+NP_001245217,      301 vledeelksq peplvvkgkr vaggpqmiql sldgkrlyit tslysawdkq fypdliregs
+NP_001245217,      361 vmlqvdvdtv kgglklnpnf lvdfgkeplg palahelryp ggdcssdiwi
+NP_003935,1 matkcgncgp gystpleamk gpreeivylp ciyrntgtea pdylatvdvd pkspqycqvi
+NP_003935,       61 hrlpmpnlkd elhhsgwntc sscfgdstks rtklvlpsli ssriyvvdvg seprapklhk
+NP_003935,      121 viepkdihak celaflhtsh clasgevmis slgdvkgngk ggfvlldget fevkgtwerp
+NP_003935,      181 ggaaplgydf wyqprhnvmi stewaapnvl rdgfnpadve aglygshlyv wdwqrheivq
+NP_003935,      241 tlslkdglip leirflhnpd aaqgfvgcal sstiqrfykn eggtwsvekv iqvppkkvkg
+NP_003935,      301 wllpempgli tdillslddr flyfsnwlhg dlrqydisdp qrprltgqlf lggsivkggp
+NP_003935,      361 vqvledeelk sqpeplvvkg krvaggpqmi qlsldgkrly ittslysawd kqfypdlire
+NP_003935,      421 gsvmlqvdvd tvkgglklnp nflvdfgkep lgpalahelr ypggdcssdi wi
+NP_001248733, 1 maavvalslr grlpatalgg aclqasrgaq taaaaaprik kfaiyrwdpd kagdkphmqt
+NP_001248733,       61 yeidlnkcgp mvldalikik neidstltfr rscregicgs camninggnt lactrridtn
+NP_001248733,      121 lnkvskiypl phmyvikdlv pdlsnfyaqy ksiepylkkk desqegkqqy lqsieerekl
+NP_001248733,      181 dglyecilca ccstscpsyw wngdkylgpa vlmqayrwmi dsrddfteer laklqdpfsl
+NP_001248733,      241 yrchtimnct rtcpkglnpg kaiaeikkmm atykekkasv
+NP_055297, 1 mgslvltlca lfclaaylvs gspimnleqs pleedmslfg dvfseqdgvd fntllqsmkd
+NP_055297,       61 eflktlnlsd iptqdsakvd ppeymlelyn kfatdrtsmp saniirsfkn edlfsqpvsf
+NP_055297,      121 nglrkypllf nvsiphheev imaelrlytl vqrdrmiydg vdrkitifev leskgdnege
+NP_055297,      181 rnmlvlvsge iygtnsewet fdvtdairrw qksgssthql evhieskhde aedassgrle
+NP_055297,      241 idtsaqnkhn pllivfsddq ssdkerkeel nemisheqlp eldnlgldsf ssgpgeeall
+NP_055297,      301 qmrsniiyds tarirrnakg nyckrtplyi dfkeigwdsw iiappgyeay ecrgvcnypl
+NP_055297,      361 aehltptkha iiqalvhlkn sqkaskaccv ptklepisil yldkgvvtyk fkyegmavse
+NP_055297,      421 cgcr
+NP_036458,1 mavnvystsv tsenlsrhdm lawvndslhl nytkieqlcs gaaycqfmdm lfpgcvhlrk
+NP_036458,       61 vkfqaklehe yihnfkvlqa afkkmgvdki ipveklvkgk fqdnfefiqw fkkffdanyd
+NP_036458,      121 gkdynpllar qgqdvapppn pgdqifnksk kligtavpqr tsptgpknmq tsgrlsnvap
+NP_036458,      181 pcilrknpps arngghetda qilelnqqlv dlkltvdgle kerdfyfskl rdielicqeh
+NP_036458,      241 esenspvisg iigilyatee gfappeddei eehqqedqde y
+NP_001853, 1 masrllrgag tlaaqalrar gpsgaaamrs masgggvptd eeqatglere imlaakkgld
+NP_001853,       61 pynvlapkga sgtredpnlv psisnkrivg ciceedntsv vwfwlhkgea qrcprcgahy
+NP_001853,      121 klvpqqlah
+NP_002157, 1 mkafspvrsv rknslsdhsl gisrsktpvd dpmsllynmn dcysklkelv psipqnkkvs
+NP_002157,       61 kmeilqhvid yildlqiald shptivslhh qrpgqnqasr tplttlntdi silslqasef
+NP_002157,      121 pselmsndsk alcg
+NP_859064,  1 mkdvdnlksi keewvcetgs dnqplgnnqq snceyfvdsl feeaqkvssk cvspaeqkkq
+NP_859064,       61 vdvniklwkn gftvnddfrs ysdgasqqfl nsikkgelps elqgifdkee vdvkvedkkn
+NP_859064,      121 eiclstkpvf qpfsgqghrl gsatpkivsk aknievenkn nlsavplnnl epitniqiwl
+NP_859064,      181 angkrivqkf nithrvshik dfiekyqgsq rsppfslata lpvlrlldet ltleeadlqn
+NP_859064,      241 aviiqrlqkt asfrelseh
+NP_057114, 1 medagggeet papeaphppq lappeeqgll fqeetidlgg defgseenet asegssplad
+NP_057114,       61 klnehmmesv lisdspnseg dagdlgrvrd eaepggegdp gpepagtpsp sgeadgdcap
+NP_057114,      121 edaapssgga prqdaarevp gseaarpeqe ppvaepvpvc tifsqrappa sgdgfepqmv
+NP_057114,      181 kspsfggase asartppqvv qpspslstff gdtaashsla sdffdsftts afisvsnpga
+NP_057114,      241 gspapasppp lavpgtegrp epvamrgpqa aappaspepf ahiqavfags ddpfatalsm
+NP_057114,      301 semdrrndaw lpgeatrgvl ravatqqrga vfvdkenltm pglrfdniqg davkdlmlrf
+NP_057114,      361 lgekaaakrq vlnadsveqs fvglkqlisc rnwraavdlc grlltahgqg ygksglltsh
+NP_057114,      421 ttdslqlwfv rlallvklgl fqnaemefep fgnldqpdly yeyyphvypg rrgsmvpfsm
+NP_057114,      481 rilhaelqqy lgnpqesldr lhkvktvcsk ilanleqgla edggmssvtq egrqasirlw
+NP_057114,      541 rsrlgrvmys manclllmkd yvlaveayhs vikyypeqep qllsgigris lqigdiktae
+NP_057114,      601 kyfqdvekvt qkldglqgki mvlmnsaflh lgqnnfaeah rffteilrmd prnavannna
+NP_057114,      661 avcllylgkl kdslrqleam vqqdprhylh esvlfnlttm yelessrsmq kkqalleava
+NP_057114,      721 gkegdsfntq clkla
+NP_001244273, 1 mplsdfilal kdnpyfgagf glvgvgtala larkgvqlgl vafrrhymit levpardrsy
+NP_001244273,       61 awllswltrh strtqhlsve tsylqhesgr istkfefvps pgnhfiwyrg kwirversre
+NP_001244273,      121 mqmidlqtgt pwesvtftal gtdrkvffni leearelalq qeegktvmyt avgsewrpfg
+NP_001244273,      181 yprrrrplns vvlqqgladr ivrdvqefid npkwytdrgi pyrrgyllyg ppgcgkssfi
+NP_001244273,      241 talagelehs icllsltdss lsddrlnhll svapqqslvl ledvdaafls rdlavenpvk
+NP_001244273,      301 yqglgrltfs gllnaldgva stearivfmt tnhvdrldpa lirpgrvdlk eyvgycshwq
+NP_001244273,      361 ltqmfqrfyp gqapslaenf aehvlratnq ispaqvqgyf mlykndpvga ihnaeslrr
+NP_001244710, 1 mplsdfilal kdnpyfgagf glvgvgtala larkgaqlgl vafrrhymit levpardrsy
+NP_001244710,       61 awllswltrh strtqhlsve tsylqhesgr istkfefvps pgnhfiwyrg kwirversre
+NP_001244710,      121 mqmidlqtgt pwesvtftal gtdrkvffni leearelalq qeegktvmyt avgsewrpfg
+NP_001244710,      181 yprrrrplns vvlqqgladr ivrdvqefid npkwytdrgi pyrrgyllyg ppgcgkssfi
+NP_001244710,      241 talagelehs icllsltdss lsddrlnhll svapqqslvl ledvdaafls rdlavenpvk
+NP_001244710,      301 yqglgrltfs gllnaldgva stearivfmt tnhvdrldpa lirpgrvdlk eyvgycshwq
+NP_001244710,      361 lsqmfqrfyp gqapslaedf aervlqattq ispaqvqgyf mlykndpvga ihnaeslrr
+NP_001247739,  1 msqsqnaift sptgeenlmn sshrdsesit dvcsnedlpe velvslleeq lpqyrlkvdt
+NP_001247739,       61 lflyenqdwt qsahqqqhas dalspvlaee tfrymilgtd rveqmtktyn didmvthlla
+NP_001247739,      121 erdrdlelaa rigqallkrn hvlseqnesl eeqlgqafdq vnqlqhelsk kdellrivsi
+NP_001247739,      181 aseesetdss cstplrfnes fslsqgllql emlqeklkel eeenmalrsk achiktetvt
+NP_001247739,      241 yeekeqqlvs dcvkelretn aqmsrmteel sgksdeliry qeeissllsq ivdlqhklke
+NP_001247739,      301 hviekeelkl hlqaskdaqr qltmelhelq drnmeclgml hesqeeikel rsrsgpaahl
+NP_001247739,      361 yfsqsygaft geslaaeieg tmrkklslde esslfkqkaq qkrvfdtvri andtrgrsis
+NP_001247739,      421 fpallpipgs nhssvimtak pfesglqqte dksllnqgss seevagssqk mgqpgpsgds
+NP_001247739,      481 dlatalhrln lrrqnylsek qffaeewqrk iqvladqkeg vsgcvtptes lvslctnqse
+NP_001247739,      541 itdlssascl rgfmpeklqi vkplegsqtl yhwqqlaqpn lgtildprpg vitkgftqlp
+NP_001247739,      601 rdtiyhisdl eedeeegitf qvqqplqvee klstskpvtg iflppitsag gpvtvatanp
+NP_001247739,      661 gkclsctnst ftfttcrilh psditqvtps sgfpslscgs sgssssntav nspalsyrls
+NP_001247739,      721 igesitnrrd stttfsstms lakllqergi sakvyhspis enplqplpks laipstppns
+NP_001247739,      781 pshspcpspl pfeprvhlse nflasrpaet flqemyglrp srnppdvgql kmnlvdrlkr
+NP_001247739,      841 lgiarvvknp gaqengrcqe aeiglqkpds avylnsgssl lgglrrnqsl pvimgsfaap
+NP_001247739,      901 vctsspkmgv lked
+NP_001247984, 1 mafqkavkgt ilvgggalat vlglsqfahy rrkqmnlayv kaadyisepv nreppsreaq
+NP_001247984,       61 lltlqntsef dilvigggat gsgcaldavt rglktalver ddfssgtssr stklihggvr
+NP_001247984,      121 ylqkaimkld ieqyrmvkea lheranllei aphlsaplpi mlpvykwwql pyywvgikly
+NP_001247984,      181 dlvagsnclk ssyvlsksra lehfpmlqkd klvgaivyyd gqhndarmnl aialtaaryg
+NP_001247984,      241 aatanymevv sllkktdpqt gkvrvsgarc kdvltgqefd vrakcvinat gpftdsvrkm
+NP_001247984,      301 ddkdaaaicq psagvhivmp gyyspesmgl ldpatsdgrv ifflpwqkmt iagttdtptd
+NP_001247984,      361 vtphpipsee dinfilnevr nylscdvevr rgdvlaawsg irplvtdpks adtqsisrnh
+NP_001247984,      421 vvdisesgli tiaggkwtty rsmaedtina aikthnlkag psrtvglflq ggkdwsptly
+NP_001247984,      481 irlvqdygle sevaqhlaat ygdkafevak masvtgkrwp ivgvrlvsef pyieaevkyg
+NP_001247984,      541 ikeyactavd misrrtrlaf lnvqaaeeal privelmgre lnwddhkkqe qletakkfly
+NP_001247984,      601 yemgyksrse qltdrseisl lpsdidrykk rfhkfdadkk gfitivdvqr vlesinvqmd
+NP_001247984,      661 entlheilne vdlnkngqve lneflqlmsa iqkgrvsgsr lailmktaee nldrrvpipv
+NP_001247984,      721 drscggl
+NP_001248168, 1 millevnnri ieetlalkfe naaagnkpea vevtfadfdg vlyhisnpng dktkvmvsis
+NP_001248168,       61 lkfykelqah gadellkrvy gsflvnpesg ynvsllydle nlpaskdsiv hqagmlkrnc
+NP_001248168,      121 fasvfekyfq fqeegkegen ravihyrdde tmyveskkdr vtvvfstvfk ddddvvigkv
+NP_001248168,      181 fmqefkegrr ashtapqvlf shrepplelk dtdaavgdni gyitfvlfpr htnasardnt
+NP_001248168,      241 inlihtfrdy lhyhikcska yihtrmrakt sdflkvlnra rpdaekkemk titgktfssr
+NP_004451,1 mktwvkivfg vatsavlall vmcivlrpsr vhnseentmr altlkdilng tfsyktffpn
+NP_004451,       61 wisgqeylhq sadnnivlyn ietgqsytil snrtmksvna snyglspdrq fvylesdysk
+NP_004451,      121 lwrysytaty yiydlsngef vrgnelprpi qylcwspvgs klayvyqnni ylkqrpgdpp
+NP_004451,      181 fqitfngren kifngipdwv yeeemlatky alwwspngkf layaefndtd ipviaysyyg
+NP_004451,      241 deqyprtini pypkagaknp vvrifiidtt ypayvgpqev pvpamiassd yyfswltwvt
+NP_004451,      301 dervclqwlk rvqnvsvlsi cdfredwqtw dcpktqehie esrtgwaggf fvstpvfsyd
+NP_004451,      361 aisyykifsd kdgykhihyi kdtvenaiqi tsgkweaini frvtqdslfy ssnefeeypg
+NP_004451,      421 rrniyrisig syppskkcvt chlrkercqy ytasfsdyak yyalvcygpg ipistlhdgr
+NP_004451,      481 tdqeikilee nkelenalkn iqlpkeeikk levdeitlwy kmilppqfdr skkyplliqv
+NP_004451,      541 yggpcsqsvr svfavnwisy laskegmvia lvdgrgtafq gdkllyavyr klgvyevedq
+NP_004451,      601 itavrkfiem gfidekriai wgwsyggyvs slalasgtgl fkcgiavapv ssweyyasvy
+NP_004451,      661 terfmglptk ddnlehykns tvmaraeyfr nvdyllihgt addnvhfqns aqiakalvna
+NP_004451,      721 qvdfqamwys dqnhglsgls tnhlythmth flkqcfslsd
+NP_001245005, 1 mpggrrgpsr qqlsrsalps lqtlvgggcg ngtglrnrng saiglpvppi talitpgpvr
+NP_001245005,       61 hcqipdlpvd gsllfeflff iyllvalfiq yiniyktvww ypynhpasct slnfhlidyh
+NP_001245005,      121 laafitvmla rrlvwalise atkagaasmi hymvlisarl vlltlcgwvl cwtlvnlfrs
+NP_001245005,      181 hsvlnllflg ypfgvyvplc cfhqdsrahl lltdynyvvq hqaveesast vgglakskdf
+NP_001245005,      241 lsllleslke qfnnatpipt hscplspdli rneveclkad fnhrikevlf nslfsayyva
+NP_001245005,      301 flplcfvkst qyydmrwsce hlimvwinaf vmlttqllps kycdllhksa ahlgkwqkle
+NP_001245005,      361 hgsysnapqh iwsentiwpq gvlvrhsrcl yramgpynva vpsdvsharf yflfhrplrl
+NP_001245005,      421 lnlliliegs vvfyqlysll rsekwnhtls malilfcnyy vlfkllrdri vlgraysypl
+NP_001245005,      481 nsyelkan
+NP_001244537, 1 maatyrlvvs tvnhyssvvi drrfeqaihy ctgtchtfth gvdcivvhhs vcadllhipv
+NP_001244537,       61 sqfkdadlns mflpqenglc stegdypqqa ftgiprvkrg stfqntcnlk diageaisfa
+NP_001244537,      121 sgkikefsle klknsnhaay rkgrkvksds fnrrsvdldl lcghynndgn apsfgllrss
+NP_001244537,      181 sveekplshr nsldtnltsm flqnfseedl vtqilekhki dnfssgtdik mcldillkcs
+NP_001244537,      241 edlkkctdii kqcikkksgs sinegsgndt fsssetvymn vmtrlasylk klpfefmqsg
+NP_001244537,      301 nnealdltel isnmpslqlt pfspvfgteq ppkyedvvql sasdsgqfqt ielqddkpns
+NP_001244537,      361 rkmdtvqsip nnstnslynl evndprtlka vrvqsqsltm nplenvsssd lmetlyieee
+NP_001244537,      421 sdgkkaldkg qktengpshe llkihehrae fpehathlkk cpasmqneig kifeksfvhl
+NP_001244537,      481 pkedckskvs kveegdqrdf tnsssqeeid kllmdlesfs qkmetslrep lakgknsnsl
+NP_001244537,      541 nshsqltgqt lvdpepkskv sspiekvsps cltriietng hkieeedral llrilesied
+NP_001244537,      601 faqelvecks srgslsqeke mmqilqetlt tssqanlsvc rspvgdkakd ttsavliqqt
+NP_001244537,      661 pevikiqnkp ekkpgtplpp patspsspqp lspvphvnnv vnaplsinip rfyfpeglpd
+NP_001244537,      721 tcsnheqtls rietafmdie dqkadiyemg kiakvcgcpl ywkapmfraa ggektgfvts
+NP_001244537,      781 qsfiamwrkl lnnhhddask ficllakpnc ssleqedfip llqdvvdthp gltflkdape
+NP_001244537,      841 fhsryittvi qrifytvnrs wsgkitstei rksnflqtla lleeeedinq itdyfsyehf
+NP_001244537,      901 yviyckfwel dtdhdlyisq adlsryndqa ssnriierif sgavtrgkti qkegrmsyad
+NP_001244537,      961 fvwfliseed krnptsieyw frcmdvdgdg ilsmyeleyf yeeqcermea mgieplpfhd
+NP_001244537,     1021 llcqmldlvk pavdgkitlr dlkrcrmahi fydtffnlek yldheqrdpf avqkdvendg
+NP_001244537,     1081 pepsdwdrfa aeeyetlvae esaqaqfqeg fedyetdepa spsefgnkgs kilsaslpek
+NP_001244537,     1141 cgklqsvdee
+NP_001247984 , 1 mafqkavkgt ilvgggalat vlglsqfahy rrkqmnlayv kaadyisepv nreppsreaq
+NP_001247984 ,       61 lltlqntsef dilvigggat gsgcaldavt rglktalver ddfssgtssr stklihggvr
+NP_001247984 ,      121 ylqkaimkld ieqyrmvkea lheranllei aphlsaplpi mlpvykwwql pyywvgikly
+NP_001247984 ,      181 dlvagsnclk ssyvlsksra lehfpmlqkd klvgaivyyd gqhndarmnl aialtaaryg
+NP_001247984 ,      241 aatanymevv sllkktdpqt gkvrvsgarc kdvltgqefd vrakcvinat gpftdsvrkm
+NP_001247984 ,      301 ddkdaaaicq psagvhivmp gyyspesmgl ldpatsdgrv ifflpwqkmt iagttdtptd
+NP_001247984 ,      361 vtphpipsee dinfilnevr nylscdvevr rgdvlaawsg irplvtdpks adtqsisrnh
+NP_001247984 ,      421 vvdisesgli tiaggkwtty rsmaedtina aikthnlkag psrtvglflq ggkdwsptly
+NP_001247984 ,      481 irlvqdygle sevaqhlaat ygdkafevak masvtgkrwp ivgvrlvsef pyieaevkyg
+NP_001247984 ,      541 ikeyactavd misrrtrlaf lnvqaaeeal privelmgre lnwddhkkqe qletakkfly
+NP_001247984 ,      601 yemgyksrse qltdrseisl lpsdidrykk rfhkfdadkk gfitivdvqr vlesinvqmd
+NP_001247984 ,      661 entlheilne vdlnkngqve lneflqlmsa iqkgrvsgsr lailmktaee nldrrvpipv
+NP_001247984 ,      721 drscggl
+NP_001248049 ,1 mtmesgaenq qsgdaavtea enqqmtvqaq pqiatlaqvs mpaahatssa ptvtlvqlpn
+NP_001248049 ,       61 gqtvqvhgvi qaaqpsviqs pqvqtvqssc kdlkrlfsgt qistiaesed sqesvdsvtd
+NP_001248049 ,      121 sqkrreilsr rpsyrkilnd lssdapgvpr ieeekseeet sapaittvtv ptpiyqtssg
+NP_001248049 ,      181 qyiaitqgga iqlanngtdg vqglqtltmt naaatqpgtt ilqyaqttdg qqilvpsnqv
+NP_001248049 ,      241 vvqaasgdvq tyqirtapts tiapgvvmas spalptqpae eaarkrevrl mknreaarec
+NP_001248049 ,      301 rrkkkeyvkc lenrvavlen qnktlieelk alkdlychks d
+NP_057276, 1 mvlwesprqc sswtlcegfc wllllpvmll ivarpvklaa fptslsdcqt ptgwncsgyd
+NP_057276,       61 drendlflcd tntckfdgec lrigdtvtcv cqfkcnndyv pvcgsngesy qnecylrqaa
+NP_057276,      121 ckqqseilvv segscatdag sgsgdgvheg sgetsqkets tcdicqfgae cdedaedvwc
+NP_057276,      181 vcnidcsqtn fnplcasdgk sydnacqike ascqkqekie vmslgrcqdn tttttksedg
+NP_057276,      241 hyartdyaen ankleesare hhipcpehyn gfcmhgkceh sinmqepscr cdagytgqhc
+NP_057276,      301 ekkdysvlyv vpgpvrfqyv liaavigtiq iavicvvvlc itrkcprsnr ihrqkqntgh
+NP_057276,      361 yssdnttras trli
+NP_005722, 1 millevnnri ieetlalkfe naaagnkpea vevtfadfdg vlyhisnpng dktkvmvsis
+NP_005722,       61 lkfykelqah gadellkrvy gsflvnpesg ynvsllydle nlpaskdsiv hqagmlkrnc
+NP_005722,      121 fasvfekyfq fqeegkegen ravihyrdde tmyveskkdr vtvvfstvfk ddddvvigkv
+NP_005722,      181 fmqefkegrr ashtapqvlf shrepplelk dtdaavgdni gyitfvlfpr htnasardnt
+NP_005722,      241 inlihtfrdy lhyhikcska yihtrmrakt sdflkvlnra rpdaekkemk titgktfssr
+NP_057415,  1 mneypkkrkr ktlhpsrysd ssgisriadg fngifsdhcy svcsmrqpdl kyfdnkddds
+NP_057415,       61 dtetsndlpk fadgikarnr nqnylvpspv lrildhtafs teksadivic deecdspesv
+NP_057415,      121 nqqtqeespi evhtaedvpi avevhaised ydietennss eslqdqtdee ppaklckild
+NP_057415,      181 ksqalnvtaq qkwpllrans sglykcelce fnskyfsdlk qhmilkhkrt dsnvcrvcke
+NP_057415,      241 sfstnmllie haklheedpy ickycdyktv ifenlsqhia dthfsdhlyw ceqcdvqfss
+NP_057415,      301 sselylhfqe hscdeqylcq fcehetndpe dlhshvvneh acklielsdk ynngehgqys
+NP_057415,      361 llskitfdkc knffvcqvcg frsrlhtnvn rhvaiehtki fphvcddcgk gfssmleyck
+NP_057415,      421 hlnshlsegi ylcqyceyst gqiedlkihl dfkhsadlph kcsdclmrfg nerelishlp
+NP_057415,      481 vhett
+NP_079272,1 mrllgaaava algrgrapas lgwqrkqvnw kacrwsssgv ipnekirnig isahidsgkt
+NP_079272,       61 tltervlyyt griakmhevk gkdgvgavmd smelerqrgi tiqsaatytm wkdvniniid
+NP_079272,      121 tpghvdftie veralrvldg avlvlcavgg vqcqtmtvnr qmkrynvpfl tfinkldrmg
+NP_079272,      181 snparalqqm rsklnhnaaf mqipmglegn fkgivdliee raiyfdgdfg qivrygeipa
+NP_079272,      241 elraaatdhr qeliecvans deqlgemfle ekipsisdlk lairratlkr sftpvflgsa
+NP_079272,      301 lknkgvqpll davleylpnp sevqnyailn keddskektk ilmnssrdns hpfvglafkl
+NP_079272,      361 evgrfgqlty vrsyqgelkk gdtiyntrtr kkvrlqrlar mhadmmedve evyagdical
+NP_079272,      421 fgidcasgdt ftdkansgls mesihvpdpv isiamkpsnk ndlekfskgi grftredptf
+NP_079272,      481 kvyfdtenke tvisgmgelh leiyaqrler eygcpcitgk pkvafretit apvpfdfthk
+NP_079272,      541 kqsggagqyg kvigvlepld pedytklefs detfgsnipk qfvpavekgf ldacekgpls
+NP_079272,      601 ghklsglrfv lqdgahhmvd sneisfirag egalkqalan atlcilepim avevvapnef
+NP_079272,      661 qgqviaginr rhgvitgqdg vedyftlyad vplndmfgys telrsctegk geytmeysry
+NP_079272,      721 qpclpstqed vinkyleatg qlpvkkgkak n
+NP_001244599,1 mpmkgrfpir rtlqylsqgn vvfkesvkvm tvnynthgel gegarkfvff nipqiqyknp
+NP_001244599,       61 wvqimmfknm tpspflrfyl dsgeqvlvdv etksnkeime hirkilgkne etlreeeekk
+NP_001244599,      121 kelshpanfg prkyclreci cevegqvpcp svvplpkemr gkykailkas aqd
+NP_001244688, 1 mdvniaplra wddffpgsdr farpdfrdis kwnnrvvsnl lyyqtnylvv aammisvvgf
+NP_001244688,       61 lspfnmilgg ivvvlvftgf vwaahnkdal rrlkkryptt fvmvvmlasy flismfggvm
+NP_001244688,      121 vfvfgitfpl llmfihaslr lrnlknklen kmegiglkrt pmgivldale qqeeginrlt
+NP_001244688,      181 dyiskvke
+NP_001245004, 1 mvlcvqgprp llavertgqr plwaqslell etvmqplpag afleevaegt paqiesepkv
+NP_001245004,       61 ldpeedllci aktfsylres gwywgsitas earqhlqkmp egtflvrdst hpsylftlsv
+NP_001245004,      121 ktargptnvr ieyadssfrl dsnclsrpri lafpdvvslv qhyvascaad trsdspdpap
+NP_001245004,      181 tpalpmpked apndpalpap ppatavhlkl vqpfvrrssa rslqhlcrlv inrlvtdvdc
+NP_001245004,      241 lplprrmady lrqypfql
+NP_001248058, 1 maaaaataaa kgngggggra gagdasgtrk kkgpgplata ylviynvvmt agwlviavgl
+NP_001248058,       61 vraylakgsy hslyysiekp lkffqtgall eilhcaigiv pssvvltsfq vmsrvfliwa
+NP_001248058,      121 vthsvkevqs edsvllfvia wtiteiirys fytfsllnhl pylikwaryt lfivlypmgv
+NP_001248058,      181 sgelltiyaa lpfvrqagly sislpnkynf sfdyhaflil imisyipifp qlyfhmihqr
+NP_001248058,      241 rkilshteeh kkfe
+NP_060474, 1 mgnfrghalp gtfffiiglw wctksilkyi ckkqkrtcyl gsktlfyrle ilegitivgm
+NP_060474,       61 altgmageqf ipggphlmly dykqghwnql lgwhhftmyf ffgllgvadi lcftisslpv
+NP_060474,      121 sltklmlsna lfveafifyn hthgremldi fvhqllvlvv fltglvafle flvrnnvlle
+NP_060474,      181 llrsslillq gswffqigfv lyppsggpaw dlmdhenilf lticfcwhya vtivivgmny
+NP_060474,      241 afitwlvksr lkrlcssevg llknaereqe seeem
+NP_997199, 1 msrsrlfsvt saistigilc lplfqlvlsd lpceedemcv nyndqhpngw yiwillllvl
+NP_997199,       61 vaallcgavv lclqcwlrrp ridshrrtma vfavgdldsi ygteaavspt vgihlqtqtp
+NP_997199,      121 dlypvpapcf gplgspppye eivktt
+NP_001244890, 1 mskkgrskge kpemetdavq maneelrakl tsiqiefqqe kskvgklrer lqeaklereq
+NP_001244890,       61 eqrrhtayis elkaklheek tkelqalreg lirqheqeaa rtakikegel qrlqatlnvl
+NP_001244890,      121 rdgaadkvkt allteareea rrafdgerlr lqqeilelka arkqaeeals ncmqadktka
+NP_001244890,      181 adlraayqah qdevhrikre cerdirrlmd eikgkdrvil alekelgvqa gqtqklllqk
+NP_001244890,      241 ealdeqlvqv keaerhhssp krelppgigd mvelmgvqdq hmderdvrrf qlkiaelnsv
+NP_001244890,      301 irkledrntl ladernellk rsretevqlk plveknkrmn kknedllqsi qrmeekiknl
+NP_001244890,      361 trenvemkek lsaqaslkrh tslndlsltr deqeieflrl qvleqqhvid dlslererll
+NP_001244890,      421 rskrhrgksl kppkkhvvet ffgfdeesvd setlsetsyn tdrtdrtpat peedlddtta
+NP_001244890,      481 reeadlrfcq ltreyqalqr ayallqeqvg gtldaerear treqlqadll rcqakiedle
+NP_001244890,      541 kllvekgqds kwveekqlli rtnqdlleki yrlemeenql knemqdakdq nellefrvle
+NP_001244890,      601 levrdsicck lsngadilfe pklkfm
+NP_000997, 1 mavgknkrlt kggkkgakkk vvdpfskkdw ydvkapamfn irnigktlvt rtqgtkiasd
+NP_000997,       61 glkgrvfevs ladlqndeva frkfklited vqgkncltnf hgmdltrdkm csmvkkwqtm
+NP_000997,      121 ieahvdvktt dgyllrlfcv gftkkrnnqi rktsyaqhqq vrqirkkmme imtrevqtnd
+NP_000997,      181 lkevvnklip dsigkdieka cqsiyplhdv fvrkvkmlkk pkfelgklme lhgegsssgk
+NP_000997,      241 atgdetgakv eradgyeppv qesv
+NP_001248697, 1 mvmekpspll vgrefvrqyy tllnkapeyl hrfygrnssy vhggvdasgk pqeavygqnd
+NP_001248697,       61 ihhkvlslnf sechtkirhv dahatlsdgv vvqvmgllsn sgqperkfmq tfvlapegsv
+NP_001248697,      121 pnkfyvhndm fryedevfgd sepeldeese deveeeqeer qpspepvqen ansgyyeahp
+NP_001248697,      181 vtngieeple esshepepet esetkteelk pqveeknlee leeksttppp aepvslpqep
+NP_001248697,      241 pkprveakpe vqsqpprvre qrprerpgfp prgprpgrgd meqndsdnrr iirypdshql
+NP_001248697,      301 fvgnlphdid enelkeffms fgnvvelrin tkgvggklpn fgfvvfddse pvqriliakp
+NP_001248697,      361 imfrgevrln veekktraar eretrgggdd rrdirrndrg pggprgivgg gmmrdrdgrg
+NP_001248697,      421 ppprggmaqk lgsgrgtgqm egrftgqrr
+NP_001248492,  1 msepkaidpk lsttdrvvka vpfppshrlt akevfdndgk prvdilkahl mkegrleesv
+NP_001248492,       61 alriitegas ilrqeknlld idapvtvcgd ihgqffdlmk lfevggspan trylflgdyv
+NP_001248492,      121 drgyfsiecv lylwalkily pktlfllrgn hecrhlteyf tfkqeckiky servydacmd
+NP_001248492,      181 afdclplaal mnqqflcvhg glspeintld dirkldrfke ppaygpmcdi lwsdpledfg
+NP_001248492,      241 nektqehfth ntvrgcsyfy sypavceflq hnnllsilra heaqdagyrm yrksqttgfp
+NP_001248492,      301 slitifsapn yldvynnkaa vlkyennvmn irqfncsphp ywlpnfmdvf twslpfvgek
+NP_001248492,      361 vtemlvnvln icsddelgse edgfdgataa arkevirnki raigkmarvf svlreesesv
+NP_001248492,      421 ltlkgltptg mlpsgvlsgg kqtlqsaikg fspqhkitsf eeakgldrin ermpprrdam
+NP_001248492,      481 psdanlnsin kaltsetngt dsngsnssni q
+NP_006518, 1 macrprsppr hqsrcdgdas ppsparwslg rkrradgrrw rpedaeeaeh rgaerrpesf
+NP_006518,       61 ttpegpkprs rcsdwasave edemrtrvnk emarykrkll indfgrerks ssgssdskes
+NP_006518,      121 mstvpadfet desvlmrrqk qinygkntia ydryikevpr hlrqpgihpk tpnkfkkysr
+NP_006518,      181 rswdqqiklw kvalhfwdpp aeegcdlqei hpvdlesaes ssepqtssqd dfdvysgtpt
+NP_006518,      241 kvrhmdsqve defdleaclt eplrdfsams
+NP_443096,1 mtsfedadte etvtclqmtv yhpgqlqcgi fqsisfnrek lpssevvkfg rnsnichytf
+NP_443096,       61 qdkqvsrvqf slqlfkkfns svlsfeiknm skktnlivds relgylnkmd lpyrcmvrfg
+NP_443096,      121 eyqflmeked gesleffetq filsprsllq ennwpphrpi peygtyslcs sqsssptemd
+NP_443096,      181 enes
+NP_919433,1 mslrcgdaar tlgprvfgry fcspvrplss lpdkkkellq ngpdlqdfvs gdladrstwd
+NP_919433,       61 eykgnlkrqk gerlrlppwl kteipmgkny nklkntlrnl nlhtvceear cpnigecwgg
+NP_919433,      121 geyatatati mlmgdtctrg crfcsvktar npppldasep yntakaiaew gldyvvltsv
+NP_919433,      181 drddmpdgga ehiaktvsyl kernpkilve cltpdfrgdl kaiekvalsg ldvyahnvet
+NP_919433,      241 vpelqskvrd pranfdqslr vlkhakkvqp dvisktsiml glgendeqvy atmkalread
+NP_919433,      301 vdcltlgqym qptrrhlkvn fs
+NP_001244425, 1 matslgsnty nrqnwedadf pilcqtclge npyirmtkek ygkeckicar pftvfrwcpg
+NP_001244425,       61 vrmrfkktev cqtcsklknv cqtclldley glpiqvrdag lsfkddmpks dvnkeyytqn
+NP_001244425,      121 mereisnsdg trpvgmlgka tstsdmllkl arttpyykrn rphicsfwvk geckrgeecp
+NP_001244425,      181 yrhekptdpd dpladqnikd ryygindpva dkllkrastm prldppedkt ittlyvgglg
+NP_001244425,      241 dtitetdlrn hfyqfgeirt itvvqrqqca fiqfatrqaa evaaeksfnk livngrrlnv
+NP_001244425,      301 kwgrsqaarg kekekdgttd sgiklepvpg lpgalppppa aeeeasanyf nlppsgppav
+NP_001244425,      361 vnialppppg iapppppgfg phmfhpmgpp ppfmrapgpi hypsqdpqrm gahagkhssp
+NP_001247790, 1 maqpyppaqy ppppqngipa eyapppphpt qdysgqtpvp sehgmtlytp aqthpeqpgs
+NP_001247790,       61 eastqpiagt qtvpqtdeaa qtdsqplhps dptekqqpkr lhvsnipfrf rdpdlrqmfg
+NP_001247790,      121 qfgkildvei ifnergskgf gfvtfetssd adrareklng tivegrkiev nnatarvmtn
+NP_001247790,      181 kktgnpytng wklnpvvgav ygpefyavtg fpypttgtav ayrgahlrgr gravyntfra
+NP_001247790,      241 apppppipty gavvyqdgfy gaeiyggyaa yryaqpaaaa aaysdsygrv yaaadpyhht
+NP_001247790,      301 igpaatysig tm
+NP_001247791,1 mgcrhsrlss ckppkkkrqe pepdqpprpe pqelgplngd tavtvqlcas eeaerhqkdv
+NP_001247791,       61 trilqqheee kkkwaqqvek erelelrdrl deqqrvlegk neeslqvlra syeqekealt
+NP_001247791,      121 hsfqeasaaq qetidrltsq leafqakmkr veesimsrny kkhiqdygsp sqfweqeles
+NP_001247791,      181 lhfviemkne riheldkrli lmetvkeknl ileekittlq qenedlhvrs rnqvvlsrql
+NP_001247791,      241 sedllltrea lekevqlrrq lqqekeelly rvlganaspa fplapvtpte vsflat
+NP_001244598, 1 madaeelqvs sppppppssp sssdasaass pggpvslgwp vpsrssggtv dpleevelqi
+NP_001244598,       61 gdaafsltkl leatsavsaq veelafkcte narflktwrd llkegydslk pdd
+NP_001244890, 1 mskkgrskge kpemetdavq maneelrakl tsiqiefqqe kskvgklrer lqeaklereq
+NP_001244890,       61 eqrrhtayis elkaklheek tkelqalreg lirqheqeaa rtakikegel qrlqatlnvl
+NP_001244890,      121 rdgaadkvkt allteareea rrafdgerlr lqqeilelka arkqaeeals ncmqadktka
+NP_001244890,      181 adlraayqah qdevhrikre cerdirrlmd eikgkdrvil alekelgvqa gqtqklllqk
+NP_001244890,      241 ealdeqlvqv keaerhhssp krelppgigd mvelmgvqdq hmderdvrrf qlkiaelnsv
+NP_001244890,      301 irkledrntl ladernellk rsretevqlk plveknkrmn kknedllqsi qrmeekiknl
+NP_001244890,      361 trenvemkek lsaqaslkrh tslndlsltr deqeieflrl qvleqqhvid dlslererll
+NP_001244890,      421 rskrhrgksl kppkkhvvet ffgfdeesvd setlsetsyn tdrtdrtpat peedlddtta
+NP_001244890,      481 reeadlrfcq ltreyqalqr ayallqeqvg gtldaerear treqlqadll rcqakiedle
+NP_001244890,      541 kllvekgqds kwveekqlli rtnqdlleki yrlemeenql knemqdakdq nellefrvle
+NP_001244890,      601 levrdsicck lsngadilfe pklkfm
+NP_000997, 1 mavgknkrlt kggkkgakkk vvdpfskkdw ydvkapamfn irnigktlvt rtqgtkiasd
+NP_000997,       61 glkgrvfevs ladlqndeva frkfklited vqgkncltnf hgmdltrdkm csmvkkwqtm
+NP_000997,      121 ieahvdvktt dgyllrlfcv gftkkrnnqi rktsyaqhqq vrqirkkmme imtrevqtnd
+NP_000997,      181 lkevvnklip dsigkdieka cqsiyplhdv fvrkvkmlkk pkfelgklme lhgegsssgk
+NP_000997,      241 atgdetgakv eradgyeppv qesv
+NP_001244392, 1 msgdtclcpa sgakpklsgf kggglgnkyv qlnvggslyy ttvraltrhd tmlkamfsgr
+NP_001244392,       61 mevltdkegw ilidrcgkhf gtilnylrdd titlpqnrqe ikelmaeaky yliqglvnmc
+NP_001244392,      121 qsalqdkkds yqpvcnipii tslkeeerli esstkpvvkl lynrsnnkys ytsnsddhll
+NP_001244392,      181 knielfdkls lrfngrvlfi kdvigdeicc wsfygqgrkl aevcctsivy atekkqtkve
+NP_001244392,      241 fpeariyeet lnvllyetpr vpdnslleat srsrsqasps edeetfelrd rvrrihvkry
+NP_001244392,      301 styddrqlgh qsthrd
+NP_001244715,1 mdeqealnsi mndlvalqmn rrhrmpgyet mknkdtghsn rqkkhnssss allnsptvtt
+NP_001244715,       61 sscagasekk kflsdvrikf ehngerriia fsrpvkyedv ehkvttvfgq pldlhymnne
+NP_001244715,      121 lsillknqdd ldkaidildr sssmkslril llsqdrnhns ssphsgvsrq vrikasqsag
+NP_001244715,      181 dintiyqppe prsrhlsvss qnpgrssppp gyvperqqhi arqgsytsin segefipets
+NP_001244715,      241 eqcmldplss aenslsgscq sldrsadsps frksrmsraq sfpdnrqeys dretqlydkg
+NP_001244715,      301 vkggtyprry hvsvhhkdys dgrrtfprir rhqgnlftlv pssrslstng enmglavqyl
+NP_001244715,      361 dprgrlrsad senalsvqer nvptkspsap inwrrgkllg qgafgrvylc ydvdtgrela
+NP_001244715,      421 skqvqfdpds petskevsal eceiqllknl qherivqyyg clrdraektl tifmeympgg
+NP_001244715,      481 svkdqlkayg altesvtrky trqilegmsy lhsnmivhrd ikganilrds agnvklgdfg
+NP_001244715,      541 askrlqticm sgtgmrsvtg tpywmspevi sgegygrkad vwslgctvve mltekppwae
+NP_001244715,      601 yeamaaifki atqptnpqlp shisehgrdf lrrifvearq rpsaeellth hfaqlmy
+ NP_001244726, 1 mlwlqgnsmp larsafglfl rncsaskttl pvltlftkdp cplcdeakev lkpyknrfil
+ NP_001244726,       61 qevnitlpen svwyerykfd ipvfhlngqf lmmhrvntsk lekqllkleq qstgg
+NP_001244942,  1 masrcwrwwg wsawprtrlp pagstptfgg sdevrdpana kalrnkrrrm qvrvklgkfq
+NP_001244942,       61 llldiqektp qicvvgsgpa gfytaqhllk hpqahvdiye kqpvpfglvr fgvapdhpev
+NP_001244942,      121 knvintftqt ahsgrcafwg nvevgrdvtv pelreayhav vlsygaedhr aleipgeelp
+NP_001244942,      181 gvcsarafvg wynglpenqe lepdlscdta vilgqgnval dvarilltpp ehlertditk
+NP_001244942,      241 aalgvlrqsr vktvwlvgrr gplqvaftik elremiqlpg arpildpvdf lglqdkikev
+NP_001244942,      301 prprkrltel llrtatekpg paeaarqasa srawglrffr spqqvlpspd grraagvrla
+NP_001244942,      361 vtrlegvdea travptgdme dlpcglvlss igyksrpvdp svpfdsklgv ipnvegrvmd
+NP_001244942,      421 vpglycsgwv krgptgviat tmtdsfltgq mllqdlkagl lpsgprpgya aiqallssrg
+NP_001244942,      481 vrpvsfsdwe kldaeevarg qgtgkprekl vdpqemlrll gh
+NP_001035994, 1 mavfrsgllv lttplaslap rlasiltsaa rlvnhtlyvh lqpgmslegp aqpqsspvqa
+NP_001035994,       61 tfevldfith lyagadvhrh ldvrilltni rtkstflppl ptsvqnlahp pevvltdfqt
+NP_001035994,      121 ldgsqynpvk qqlvryatsc ysccprlasv llysdygige vpvepldvpl pstirpaspv
+NP_001035994,      181 agspkqpvrg yyrgavggtf drlhnahkvl lsvacilaqe qlvvgvadkd llkskllpel
+NP_001035994,      241 lqpyterveh lseflvdikp sltfdvipll dpygpagsdp sleflvvsee tyrggmainr
+NP_001035994,      301 frlendleel alyqiqllkd lrhteneedk vssssfrqrm lgnllrppye rpelptclyv
+NP_001035994,      361 igltgisgsg kssiaqrlkg lgafvidsdh lghrayapgg payqpvveaf gtdilhkdgi
+NP_001035994,      421 inrkvlgsrv fgnkkqlkil tdimwpiiak lareemdrav aegkrvcvid aavlleagwq
+NP_001035994,      481 nlvhevwtav ipeteavrri verdglseaa aqsrlqsqms gqqlveqshv vlstlwephi
+NP_001035994,      541 tqrqvekawa llqkripkth qald
+NP_001247877,1 mrkssspsls ncnsvlanki fgipldelqq gghpdnevpf ivrhvvdyie ehggleqqgl
+NP_001247877,       61 fqvngnaetv ewlrqrydsg eevdlvkead vpsaisllrf flqelpepvi pgslhihlmq
+NP_001247877,      121 lsqdynnede fgrklrfllq qlppvnysll kflcrflanv ashheeiwsa nslaavfgpd
+NP_001247877,      181 vfhiytdved mkeqeivsri magllenyye ffeneeedfs sndlssiteq vnelseeeee
+NP_001247877,      241 deklehieel peegaeksnd mpevvqlrmt enilesnsvt aststhispi silpastdil
+NP_001247877,      301 ertiraaveq hlfdlqssid hdlknlqqqs vvcnneaesi hcdgegsnnq vdiadgiina
+NP_001247877,      361 sesnrdcsep vastnldnev mqqdcvfdne ennqsvgill epcsdhgdse dgclereeyl
+NP_001247877,      421 lfdsgklshl ildssskicd lnantesevp ggqsvgvqge aacvniphld lknvsdgdkw
+NP_001247877,      481 eepfpafksw qedsesgeaq lspqagrmnh hpleedcppv lshrsldfgq sqrflhdpek
+NP_001247877,      541 ldssskalsf trirrssfss kdekredrtp yqlvkklqkk irqfeeqfer ernskpsysd
+NP_001247877,      601 iaanpkvlkw mteltklrkq ikdakhkssd gefvpqtrpr sntlpksfgs sldhedeene
+NP_001247877,      661 depkviqkek kpskeatlel ilkrlkekri erclpedikk mtkdhlveek aslqksllyy
+NP_001247877,      721 esqhgrpvtk eerhivkply dryrlvkqml trasitpvlg spstkrrgqm lqpiiegeta
+NP_001247877,      781 hffeeikeee edgvnlssel sdilktavqv qsslensesd veenqeklal dlrlsssraa
+NP_001247877,      841 smpelleqlw karaekkklr ktlrefeeaf yqqngrnaqk edrvpvleey reykkikakl
+NP_001247877,      901 rllevliskq dssksi
+NP_149049, 1 mvnsccgsvc sdqgcdqglc qetccrpscc qttcccpscv vssccrpscs qttccqttcc
+NP_149049,       61 rpsccrpvcc qttcrpscgv ssccrplccq ttcrpscgvs sccrplccqt tccrttccrp
+NP_149049,      121 sccgssc
+NP_001244643, 1 mveafcatwk ltdsqnfdey mkalgvgfat rqvgnvtkpt viisqegdkv virtlstfkn
+NP_001244643,       61 teisfhlgee fdettaddrn cksvvsldgd klvhvqkwdg ketnfvreik dgkmvmtltf
+NP_001244643,      121 gdvvavrhye ka
+NP_001245205,1 miatggvitg laalkrqdsa rsqqhvnlsp spatqekkpi rrrpradvvv vrgkirlysp
+NP_001245205,       61 sgfflilgvl isiigiamav lgywpqkehf idaettlstn etqvirnegg vvvrffeqhl
+NP_001245205,      121 hsdkmkmlgp ftmgigifif icanailhen rdketkiihm rdiystvidi htlrikeqrq
+NP_001245205,      181 mngmytglmg etevkqngss casrlaanti asfsgfrssf rmdssveede lmlnegkssg
+NP_001245205,      241 hlmppllsds svsvfglypp pskttddkts gskkcetksi vsssisaftl pviklnncvi
+NP_001245205,      301 depsidnite dadnlksrsr nlsmdslvvp lpntsesfqp vstvlprnns igeslssqyk
+NP_001245205,      361 ssmalgpgag qllspgaarr qfgsntslhl lsshsksldl drgpstltvq aeqrkhpswp
+NP_001245205,      421 rldrnnskgy mklenkedpm drllvpqvai kkdftnkekl lmisrshnnl sfehdeflsn
+NP_001245205,      481 nlkrgtsetr f
+NP_001247778,1 msvpeeerll pltqrwpras kfllsgcaat vaelatfpld ltktrlqmqg eaalarlgdg
+NP_001247778,       61 aresapyrgm vrtalgiiqe egflklwqgv tpaiyrhvvy sggrmvtyeh lrevvfgkse
+NP_001247778,      121 dehyplwksv iggmmagvig qflanptdlv kvqmqmegkr klegkplrfr gvhhafakil
+NP_001247778,      181 aeggirglwa gwvpniqraa lvnmgdltty dtvkhylvln tplednimth glsslcsglv
+NP_001247778,      241 asilgtpadv iksrimnqpr dkqgrgllyk sstdcliqav qgegfmslyk gflpswlrmt
+NP_001247778,      301 pwsmvfwlty ekiremsgvs pf
+NP_001248490,        1 mlraknqlfl lsphylkqvk essgsrlirq rflhqqqplh pewaalakkq lkgknpedli
+NP_001248490,       61 whtpegisik plyskrdttd lpeelpgvkp ftrgpyptmy tfrpwtirqy agfstveesn
+NP_001248490,      121 kfykdnikag qqglsvafdl athrgydsdn prvrgdvgma gvaidtvedt kilfdgiple
+NP_001248490,      181 kmsvsmtmng avipvlanfi vtgeeqgvpk ekltgtiqnd ilkefmvrnt yifppepsmk
+NP_001248490,      241 iiadifqyts khmpkfnsis isgyhmqeag adailelayt ladgleysrt glqagltide
+NP_001248490,      301 faprlsffwg igmnfymeia kmragrrlwa hliekmfqpk sskslllrah cqtsgwslte
+NP_001248490,      361 qdpynnivrt aieamaavfg gtqslhtnsf dealglptvk sariarntqi iiqeesgipk
+NP_001248490,      421 vadpwggsym mesltndvyd aalklineie emggmakava egipklriee caarrqarid
+NP_001248490,      481 sgsevivgvn kyqlekedav evlaidntsv rnrqieklqk ikssrdqala erclaaltec
+NP_001248490,      541 aasgdgnila lavdasrarc tvgeitdalk kvfgehkand rmvsgayrqe fgeskeitsa
+NP_001248490,      601 ikrvhkfmer egrrprllva kmgqdghdrg akviatgfad lgfdvdigpl fqtprevaqq
+NP_001248490,      661 avdadvhavg vstlaaghkt lvpelikeln slgrpdilvm cggvippqdy eflfevgvsn
+NP_001248490,      721 vfgpgtripk aavqvlddie kclekkqqsv
+NP_001248485,        1 mddarespsd kggetgesde taaasgdpga tdtdgipeet dgdadadlke aaaeegepks
+NP_001248485,       61 qdvsdlttve redsslltpa akklkidtke kkekkqkvde deiqkmqilv ssfseeqlnr
+NP_001248485,      121 yemyrrsafp kaaikrliqs itgtsvsqnv viamsgiskv fvgevveeal dvcekwgemp
+NP_001248485,      181 plqpkhmrea vrrlkskgqi pnskhkkiif f
+NP_031381,        1 mpeevhhgee evetfafqae iaqlmsliin tfysnkeifl relisnasda ldkiryeslt
+NP_031381,       61 dpskldsgke lkidiipnpq ertltlvdtg igmtkadlin nlgtiaksgt kafmealqag
+NP_031381,      121 adismigqfg vgfysaylva ekvvvitkhn ddeqyawess aggsftvrad hgepigrgtk
+NP_031381,      181 vilhlkedqt eyleerrvke vvkkhsqfig ypitlyleke rekeisddea eeekgekeee
+NP_031381,      241 dkddeekpki edvgsdeedd sgkdkkkktk kikekyidqe elnktkpiwt rnpdditqee
+NP_031381,      301 ygefyksltn dwedhlavkh fsvegqlefr allfiprrap fdlfenkkkk nniklyvrrv
+NP_031381,      361 fimdscdeli peylnfirgv vdsedlplni sremlqqski lkvirknivk kclelfsela
+NP_031381,      421 edkenykkfy eafsknlklg ihedstnrrr lsellryhts qsgdemtsls eyvsrmketq
+NP_031381,      481 ksiyyitges keqvansafv ervrkrgfev vymtepidey cvqqlkefdg kslvsvtkeg
+NP_031381,      541 lelpedeeek kkmeeskakf enlcklmkei ldkkvekvti snrlvsspcc ivtstygwta
+NP_031381,      601 nmerimkaqa lrdnstmgym makkhleinp dhpivetlrq kaeadkndka vkdlvvllfe
+NP_031381,      661 tallssgfsl edpqthsnri yrmiklglgi dedevaaeep naavpdeipp legdedasrm
+NP_031381,      721 eevd
+NP_620165,        1 mklrsshnas ktlnannmet liecqsegdi kehpllasce sedsicqlie vkkrkkvlsw
+NP_620165,       61 pflmrrlspa sdfsgaletd lkaslfdqpl siicgdsdtl prpiqdilti lclkgpsteg
+NP_620165,      121 ifrraaneka rkelkeelns gdavdlerlp vhllavvfkd flrsiprkll ssdlfeewmg
+NP_620165,      181 alemqdeedr iealkqvadk lprpnllllk hlvyvlhlis knsevnrmds snlaicigpn
+NP_620165,      241 mltlendqsl sfeaqkdlnn kvcsay
+NP_056502,        1 mrsrnqgges asdghiscpk psiignagek slsedakkkk ksnrkeddvm asgtvkrhlk
+NP_056502,       61 tsgecerktk kslelskedl iqllsimege lqaredvihm lktektkpev leahygsaep
+NP_056502,      121 ekvlrvlhrd ailaqeksig edvyekpise ldrleekqke tyrrmleqll laekchrrtv
+NP_056502,      181 yelenekhkh tdymnksddf tnlleqerer lkklleqeka yqarkekena krlnklrdel
+NP_056502,      241 vklksfalml vderqmhieq lglqsqkvqd ltqklreeee klkaitsksk edrqkllkle
+NP_056502,      301 vdfehkasrf sqeheemnak lanqeshnrq lrlklvgltq rieeleetnk nlqkaeeelq
+NP_056502,      361 elrdkiakge cgnsslmaev enlrkrvlem egkdeeitkt esqcrelrkk lqeeehhske
+NP_056502,      421 lrleveklqk rmseleklee afsksksect qlhlnlekek nltkdllnel evvksrvkel
+NP_056502,      481 ecsesrleka elslkddltk lksftvmlvd erknmmekik qeerkvdgln knfkveqgkv
+NP_056502,      541 mdvtekliee skkllklkse meekvynltr erdeligklk seeekssels csvdllkkrl
+NP_056502,      601 dgieeverei trgrsrkgse ltcpednkik eltleierlk krlqqlevve gdlmktedey
+NP_056502,      661 dqleqkfrte qdkanflsqq leeikhqiak nkaiekgevv sqeaelrhrf rleeaksrdl
+NP_056502,      721 kaevqalkek ihelmnkedq lsqlqvdysv lqqrfmeeen knknmgqevl nltkelelsk
+NP_056502,      781 rysralrpsv ngrrmvdvpv tstgvqtdav sgeaaeeetp avfirksfqe enhimsnlrq
+NP_056502,      841 vglkkpvers svldryppaa neltmrkswi pwmrkrengp sitqekgprt nsspghpgev
+NP_056502,      901 vlspkqgqpl hirvtpdhen statleitsp tseeffsstt viptlgnqkp ritiipspnv
+NP_056502,      961 mpqkqksgdt tlgperamsp vtittfsrek tpesgrgafa drptspiqim tvstsaapae
+NP_056502,     1021 iavspesqem pmgrtilkvt pekqtvptpv rkynsnanii ttednkihih lgsqfkrspg
+NP_056502,     1081 tsgegvspvi tvrpvnvtae kevstgtvlr sprnhlssrp gaskvtstit itpvttssar
+NP_056502,     1141 gtqsvsgqdg ssqrptptri pmskgmkagk pvvaapgagn ltkfepraet qsmkielkks
+NP_056502,     1201 aassttslgg gkg
+NP_001244465,        1 mtqntvivng vavastpsqp shinvhihqe stltqllkag sslkkflfhp gdtvpstari
+NP_001244465,       61 gyeqlalgai aagagavvhe khpgklagyv silltlaafa tamaavvlcv nsfiwqtepf
+NP_001244465,      121 lyidtvcdps dvvipttgyr wqsqenqwqk eecraymqml rklftairal flavcvlkvi
+NP_001244465,      181 vslaslgvnl rnlcgqssqp lneegsekrl lgensvppsp sreqtstviv l
+NP_001244815,        1 maeppspvhc vaasaptatv sekepfgklq pssrdppgsl sakkvrteek kaprrvngeg
+NP_001244815,       61 gsggnsrqlq ppsapspqsy gssaswsfap lsaapspsss rssfsfsagt avpssasasl
+NP_001244815,      121 sqpvprkllv pptllhaqph hlllpaaaaa sanaksrrpk ekrekerrrh glggareagg
+NP_001244815,      181 asreengevk plprdkikdk ikerdkeker ekkkhkvmne ikkengevki llksgkekpk
+NP_001244815,      241 tniedlqikk vkkkkkkkhk enekrkrpkm ynksiqtics glltdvedqe tkgilndnik
+NP_001244815,      301 dyvgknldtk nydskipens efpfvslkep rvqnnlkrld tlefkqlihi ehqpnggasv
+NP_001244815,      361 ihaysnelsh lspmemerfa eefvglvfse nensaafyvm givhgaatyl pdfldyfsfn
+NP_001244815,      421 fpnspvkmei lgkkdiettt msnfhaqvkr tyshgtyrag pmrqislvga vdeevgdyfp
+NP_001244815,      481 efldmleesp flkctlpwgt lsslklqsrk dsddgpimwv rpgeqmipva dmpkspfkrk
+NP_001244815,      541 rttneiknlq ylprtsepre mlfedrtrah adhigqgfer qttaavgvlk avhcgewpdq
+NP_001244815,      601 pritkdvicf haedflevvq rmqldlhepp lsqcvqwvdd aklnqlrreg iryariqlyd
+NP_001244815,      661 ndiyfiprnv vhqfktvsav cslawhirlk lyhseedtsq ntathetgts sdstssvlgp
+NP_001244815,      721 dtdnmvcavs kasldsvfsd klhskyelqq ikhepvasvr ikeepvnvnv pektralnnm
+NP_001244815,      781 dgknvkakld hvqftefkid vdskfensnk dlkeelcpgn lslvdirqhs sahsnqdkkd
+NP_001244815,      841 ddilc
+NP_001248111,        1 mpqsksrkia ilgyrsvgks sltiqfvegq fvdsydptie ntftklitvn gqeyhlqlvd
+NP_001248111,       61 tagqdeysif pqtysiding yilvysvtsi ksfevikvih gklldmvgkv qipimlvgnk
+NP_001248111,      121 kdlhmervis yeegkalaes wnaaflessa kenqtavdvf rriileaekm dgaasqgkss
+NP_001248111,      181 csvm
+NP_612455,        1 mgpggrvarl laplmwrrav ssvagsavga epglrllavq rlpvgaafcr acqtpnfvrg
+NP_612455,       61 lhsepgleer aegtvnegrp esdaadhtgp kfdidmmvsl lrqenardic viqvppemry
+NP_612455,      121 tdyfvivsgt strhlhamaf yvvkmykhlk ckrdphvkie gkdtddwlcv dfgsmvihlm
+NP_612455,      181 lpetreiyel eklwtlrsyd dqlaqiapet vpedfilgie ddtssvtpve lkce
+NP_060360,        1 mlesyvtpil msyvnryikn lkpsdlqlsl wggdvvlskl elkldvleqe lklpftflsg
+NP_060360,       61 hihelrihvp wtklgsepvv itintmecil klkdgiqddh escgsnstnr staestkssi
+NP_060360,      121 kprrmqqaap tdpdlppgyv qslirrvvnn vnivinnlil kyveddivls vnitsaecyt
+NP_060360,      181 vgelwdrafm disatdlvlr kvinfsdctv cldkrnasgk iefyqdplly kcsfrtrlhf
+NP_060360,      241 tyenlnskmp svikihtlve slklsitdqq lpmfirimql gialyygeig nfkegeiedl
+NP_060360,      301 tchnkdmlgn itgsedetri dmqypaqhkg qelysqqdee qpqgwvswaw sfvpaivsyd
+NP_060360,      361 dgeedfvgnd pastmhqqka qtlkdpivsi gfyctkatvt fkltemqves syyspqkvks
+NP_060360,      421 kevlcweqeg ttvealmmge pffdcqigfv gcramclkgi mgvkdfeenm nrseteacff
+NP_060360,      481 icgdnlstkg ftyltnslfd yrspenngtr aefildsthh ketyteiagm qrfgafymdy
+NP_060360,      541 lytmentsgk gstnqqdfss gksedlgtvq ekstkslvig pldfrldssa vhrilkmivc
+NP_060360,      601 aleheyepys rlksdikden etilnpeeva lleeyiptrh tsvtllkctc tismaefnll
+NP_060360,      661 dhllpvimge knssnfmntt nfqslrplps irilvdkinl ehsvpmyaeq lvhvvssltq
+NP_060360,      721 psdnllhycy vhcylkifgf qagltsldcs gsyclpvpvi psfstalygk llklptcwtk
+NP_060360,      781 rsqiaitegi felpnltiqa traqtlllqa iyqswshlgn vsssavieal ineiflsigv
+NP_060360,      841 ksknplptle gsiqnvelky cstslvkcas gtmgsikica kapvdsgkek lipllqgpsd
+NP_060360,      901 tkdlhstkwl nesrkpesll apdlmaftiq vpqyidychn sgavllcsiq glavnidpil
+NP_060360,      961 ytwliyqpqk rtsrhmqqqp vvavplvmpv crrkedevsi gsaplakqqs yqaseyassp
+NP_060360,     1021 vktktvtesr plsvpvkaml nisescrspe ermkefigiv wnavkhltlq levqsccvfi
+NP_060360,     1081 pndslpspst ivsgdipgtv rswyhgqtsm pgtlvlclpq ikiisaghky meplqeipfv
+NP_060360,     1141 iprpileegd afpwtislhn fsiytllgkq vtlclvepmg ctstlavtsq kllatgpdtr
+NP_060360,     1201 hsfvvclhvd lesleikcsn pqvqlfyelt dimnkvwnki qkrgnlnlsp tspetmagpv
+NP_060360,     1261 ptspvrssig tappdtstcs psadigttte gdsiqagees pfsdsvtleq ttsniggtsg
+NP_060360,     1321 rvslwmqwvl pkitiklfap dpenkgtevc mvseledlsa sidvqdvytk vkckiesfni
+NP_060360,     1381 dhyrsslgee cwslgqcggv flsctdklnr rtllvrpisk qdpfsncsgf fpstttklld
+NP_060360,     1441 gthqqhgfls ltytkavtkn vrhkltsrne rrsfhklseg lmdgsphflh eillsaqafd
+NP_060360,     1501 ivlyfpllna iasifqaklp ktqkekrksp gqpmrthtlt srnlpliyvn tsvirifipk
+NP_060360,     1561 teemqptvea nqaakedtvv lkigsvamap qadnplgrsv lrkdiyqral nlgilrdpgs
+NP_060360,     1621 eiedrqyqid lqsinigtaq whqlkpekes vsggvvtete rnsqnpalew nmassirrhq
+NP_060360,     1681 errailtpvl tdfsvritga paviftkvvs penlhteeil vcghslevni ttnldfflsv
+NP_060360,     1741 aqvqllhqli vanmtgleps nkaaeiskqe qkkvdifdgg maetssrysg aqdsgigsds
+NP_060360,     1801 vkirivqieq hsgasqhria rpsrqssivk nlnfipfdif itasrislmt yscmalsksk
+NP_060360,     1861 sqeqknnekt dksslnlpev dsdvakpnqa cistvtaedl lrssisfpsg kkigvlsles
+NP_060360,     1921 lhastrssar qalgitivrq pgrrgtgdlq lepflyfivs qpslllschh rkqrvevsif
+NP_060360,     1981 davlkgvasd ykcidpgktl pealdyctvw lqtvpgeids ksgippsfit lqikdflngp
+NP_060360,     2041 advnldiskp lkanlsftkl dqinlflkki knahslahse etsamsntmv nkddlpvsky
+NP_060360,     2101 yrgklskpki hgdgvqkisa qenmwravsc fqkisvqttq ivismetvph tskpcllasl
+NP_060360,     2161 snlngslsvk atqkvpgiil gssfllsind fllktslker sriligpcca tanleakwck
+NP_060360,     2221 hsgnpgpeqs ipkisidlrg gllqvfwgqe hlnclvllhe llngylneeg nfevqvsepv
+NP_060360,     2281 pqmsspvekn qtfkseqssd dlrtglfqyv qdaeslklpg vyevlfynet edcpgmmlwr
+NP_060360,     2341 ypeprvltlv ritpvpfntt edpdistadl gdvlqvpcsl eywdelqkvf vafrefnlse
+NP_060360,     2401 skvcelqlpd inlvndqkkl vssdlwrivl nssqngaddq ssasesgsqs tcdplvtpta
+NP_060360,     2461 laactrvdsc ftpwfvpslc vsfqfahlef hlchhldqlg taapqylqpf vsdrnmpsel
+NP_060360,     2521 eymivsfrep hmylrqwnng svcqeiqfla qadckllecr nvtmqsvvkp fsifgqmavs
+NP_060360,     2581 sdvveklldc tvivdsvfvn lgqhvvhsln taiqawqqnk cpeveelvfs hfvicndtqe
+NP_060360,     2641 tlrfgqvdtd enillaslhs hqyswrshks pqllhicieg wgnwrwsepf svdhagtfir
+NP_060360,     2701 tiqyrgrtas liikvqqlng vqkqiiicgr qiicsylsqs ielkvvqhyi gqdgqavvre
+NP_060360,     2761 hfdcltakqk lpsyilenne ltelcvkakg dedwsrdvcl eskapeysiv iqvpssnssi
+NP_060360,     2821 iyvwctvltl epnsqvqqrm ivfsplfimr shlpdpiiih lekrslglse tqiipgkgqe
+NP_060360,     2881 kplqniepdl vhhltfqare eydpsdcavp istslikqia tkvhpggtvn qildefygpe
+NP_060360,     2941 kslqpiwpyn kkdsdrneql sqwdspmrvk lsiwkpyvrt lliellpwal lineskwdlw
+NP_060360,     3001 lfegekivlq vpagkiiipp nfqeafqigi ywantntvhk svaiklvhnl tspkwkdggn
+NP_060360,     3061 gevvtldeea fvdteirlga fpghqklcqf cissmvqqgi qiiqiedktt iinntpyqif
+NP_060360,     3121 ykpqlsvcnp hsgkeyfrvp dsatfsicpg geqpamksss lpcwdlmpdi sqsvldasll
+NP_060360,     3181 qkqimlgfsp apgadssqcw slpaivrpef prqsvavplg nfrengfctr aivltyqehl
+NP_060360,     3241 gvtyltlsed psprviihnr cpvkmliken ikdipkfevy ckkipsecsi hhelyhqiss
+NP_060360,     3301 ypdcktkdll pslllrvepl devttewsda idinsqgtqv vfltgfgyvy vdvvhqcgtv
+NP_060360,     3361 fitvapegka gpiltntnra pekivtfkmf itqlslavfd dlthhkasae llrltldnif
+NP_060360,     3421 lcvapgagpl pgeepvaalf elycveiccg dlqldnqlyn ksnfhfavlv cqgekaepiq
+NP_060360,     3481 cskmqsllis nkeleeykek cfiklcitln egksilcdin efsfelkpar lyvedtfvyy
+NP_060360,     3541 iktlfdtylp nsrlaghsth lsggkqvlpm qvtqharalv npvklrklvi qpvnllvsih
+NP_060360,     3601 aslklyiasd htplsfsvfe rgpifttarq lvhalamhya agalfragwv vgsldilgsp
+NP_060360,     3661 aslvrsigng vadffrlpye gltrgpgafv sgvsrgttsf vkhiskgtlt sitnlatsla
+NP_060360,     3721 rnmdrlslde ehynrqeewr rqlpeslgeg lrqglsrlgi sllgaiagiv dqpmqnfqkt
+NP_060360,     3781 seaqasaghk akgvisgvgk gimgvftkpi ggaaelvsqt gygilhgagl sqlpkqrhqp
+NP_060360,     3841 sdlhadqapn shvkyvwkml qslgrpevhm aldvvlvrgs gqehegclll tsevlfvvsv
+NP_060360,     3901 sedtqqqafp vteidcaqds kqnnlltvql kqprvacdve vdgvrerlse qqynrlvdyi
+NP_060360,     3961 tktschlaps cssmqipcpv vaaepppstv ktyhylvdph faqvflskft mvknkalrkg
+NP_060360,     4021 fp
+NP_001244673,        1 mgfifsksmn esmknqkefm lmsarlqler qlimqsemre rqmamqiaws reflkyfgtf
+NP_001244673,       61 fgfaaislta gaikkkkpaf lvpivplsfi ltyqydlgyg tllermkgea edileteksk
+NP_001244673,      121 lqlprgmitf esiekarkeq skffidk
+NP_001244904,        1 myirqlraps hrspargpri agprrpqgat mfsqqqqqql qqqqqqlqql qqqqlqqqql
+NP_001244904,       61 qqqqllqlqq llqqsppqap lpmavsrglp pqqpqqplln lqgtnsasll ngsmlqrall
+NP_001244904,      121 lqqlqgldqf amppatydta gltmptatlg nlrgygmasp glaapsltpp qlatpnlqqf
+NP_001244904,      181 fpqatrqsll gpppvgvpmn psqfnlsgrn pqkqartsss ttpnrkdsss qtmpvedksd
+NP_001244904,      241 ppegseeaae prmdtpedqd lppcpediak ekrtpapepe pceaselpak rlrsseepte
+NP_001244904,      301 keppgqlqvk aqpqarmtvp kqtqtpdllp ealeaqvlpr fqprvlqvqa qvqsqtqpri
+NP_001244904,      361 pstdtqvqpk lqkqaqtqts pehlvlqqkq vqpqlqqeae pqkqvqpqvq pqahsqgprq
+NP_001244904,      421 vqlqqeaepl kqvqpqvqpq ahsqpprqvq lqlqkqvqtq typqvhtqaq psvqpqehpp
+NP_001244904,      481 aqvsvqppeq theqphtqpq vsllapeqtp vvvhvcglem ppdaveaggg mektlpepvg
+NP_001244904,      541 tqvsmeeiqn esacgldvge cenrarempg vwgaggslkv tilqssdsra fstvpltpvp
+NP_001244904,      601 rpsdsvsstp aatstpskqa lqffcyicka scssqqefqd hmsepqhqqr lgeiqhmsqa
+NP_001244904,      661 cllsllpvpr dvletedeep pprrwcntcq lyymgdliqh rrtqdhkppt prrdvfahvp
+NP_001244904,      721 vqgwstarlv tdmiakqslr pfctvcnryf ktprkfvehv ksqghkdkak elkslekeia
+NP_001244904,      781 gqdedhfitv davgcfegde eeeeddedee eieveeelck qvrsrdisre ewkgsetysp
+NP_001244904,      841 ntaygvdflv pvmgyicric hkfyhsnsga qlshckslgh fenlqkykaa knpspttrpv
+NP_001244904,      901 srrcainarn altalftssg rppsqpntqd ktpskvtarp sqpplprrst rlkt
+NP_001248009,        1 mrsirsfand drhvmvkhst iypspeelea vqnmvstvec alkhvsdwld etnkgtkteg
+NP_001248009,       61 etevkkdeag enyskdqggr tlcgvmrigl vakgllikdd mdlelvlmck dkptetllnt
+NP_001248009,      121 vkdnlpiqiq klteekyqve qcvneasivi rntkeptltl kviltsplir delekkdgen
+NP_001248009,      181 vsmkdppdll drqkclnala slrhakwfqa ranglkscvi vlrilrdlcn rvptwaplkg
+NP_001248009,      241 wpleliceks igtcnrplga gealrrvmec lasgillpgg pglhdpcerd ptdalsymti
+NP_001248009,      301 qqkedithsa qhalrlsafg qiykvlemdp lpsskpfqky swsvtdkega gssalkrpfe
+NP_001248009,      361 dglgddkdpn kkmkrnlrki ldskaidlmn almrlnqirp glqykllsqs gpvhapvftm
+NP_001248009,      421 svdvdgttye asgpskktak lhvavkvlqa mgyptgfdad iecmssdeks dnesknetvs
+NP_001248009,      481 snssnntgns ttetsstlev rtqgpiltas gknpvmelne krrglkyeli setggshdkr
+NP_001248009,      541 fvmevevdgq kfrgagpnkk vakasaalaa leklfsgpna annkkkkiip qakgvvntav
+NP_001248009,      601 saavqavrgr grgtltrgaf vgataapgyi apgygtpygy staapayglp krmvllpvmk
+NP_001248009,      661 fptypvphys ff
+NP_075068,        1 mgpapageql rgatgepevm epalegtgke gkkassrkrt laeppakgll qpvklsrael
+NP_075068,       61 ykeptneeln rlreteilfh ssllrlqvee llkevrlsek kkdridaflr evnqrvvrvp
+NP_075068,      121 svpeteltdq awlpagvrvp lhqvpyavkg cfrflppaqv tvvgsyllgt cirpdinvdv
+NP_075068,      181 altmpreilq dkdglnqryf rkralylahl ahhlaqdplf gsvcfsytng chlkpslllr
+NP_075068,      241 prgkderlvt vrlhpcpppd ffrpcrllpt knnvrsawyr gqspagdgsp epptpryntw
+NP_075068,      301 vlqdtvlesh lqllstilss aqglkdgval lkvwlrqrel dkgqggftgf lvsmlvvflv
+NP_075068,      361 strkihttms gyqvlrsvlq flattdltvn gislclssdp slpaladfhq afsvvfldss
+NP_075068,      421 ghlnlcadvt astyhqvqhe arlsmmllds raddgfhlll mtpkpmiraf dhvlhlrpls
+NP_075068,      481 rlqaachrlk lwpelqdngg dyvsaalgpl ttlleqglga rlnllahsrp pvpewdisqd
+NP_075068,      541 ppkhkdsgtl tlglllrpeg ltsvlelgpe adqpeaakfr qfwgsrselr rfqdgairea
+NP_075068,      601 vvweaasmsq krliphqvvt hllalhadip etcvhyvggp ldaliqglke tsstgeealv
+NP_075068,      661 aavrcyddls rllwgleglp ltvsavqgah pvlrytevfp ptpvrpafsf yetlrerssl
+NP_075068,      721 lprldkpcpa yvepmtvvch legsgqwpqd aeavqrvraa fqlrlaellt qqhglqcrat
+NP_075068,      781 athtdvlkdg fvfrirvayq repqilkevq spegmislrd taaslrlerd trqlplltsa
+NP_075068,      841 lhglqqqhpa fsgvarlakr wvraqllgeg fadesldlva aalflhpepf tppsspqvgf
+NP_075068,      901 lrflflvstf dwknnplfvn lnneltveeq veirsgflaa raqlpvmviv tpqdrknsvw
+NP_075068,      961 tqdgpsaqil qqlvvlaaea lpmlekqlmd prgpgdirtv frppldiydv lirlsprhip
+NP_075068,     1021 rhrqavdspa asfcrgllsq pgpsslmpvl gydppqlylt qlreafgdla lffydqhgge
+NP_075068,     1081 vigvlwkpts fqpqpfkass tkgrmvmsrg gelvmvpnve ailedfavlg eglvqtvear
+NP_075068,     1141 serwtv
+NP_001244704,       1 mesydvianq pvvidngsgv ikagfagdqi pkycfpnyvg rpkhvrvmag alegdifigp
+NP_001244704,       61 kaeehrglls irypmehgiv kdwndmeriw qyvyskdqlq tfseehpvll teaplnprkn
+NP_001244704,      121 reraaevffe tfnvpalfis mqavlslyat grttgvvlds gdgvthavpi yegfamphsi
+NP_001244704,      181 mridiagrdv srflrlylrk egydfhssse feivkaiker acylsinpqk detletekaq
+NP_001244704,      241 yylpdgstie igpsrfrape llfrpdlige esegihevlv faiqksdmdl rrtlfsnivl
+NP_001244704,      301 sggstlfkgf gdrllsevkk lapkdvkiri sapqerlyst wiggsilasl dtfkkmwvsk
+NP_001244704,      361 keyeedgars ihrktf
+NP_001244839,       1 msssagsghq psqsraiptr tvaisdaaql phdycttpgg tlfsttpggt riiydrkfll
+NP_001244839,       61 drrnspmaqt ppchlpnipg vtspgtlied skvevnnlnn lnnhdrkhav gddaqfemdi
+NP_001245251,       1 maakqppplm kkhsqtdlvs rlktrkilgv ggedddgevh rskisqvlgn eikftirepl
+NP_001245251,       61 glrvwqfvsa vlfsgiaima lafpdqlyda vfdgaqvtsk tpirlyggal lsislimwna
+NP_001245251,      121 lytaekviir wtllteacyf gvqflvvtat laetglmslg illllvsrll fvvisiyyyy
+NP_001245251,      181 qvgrrpkka
+NP_001247794,      1 meaetktlpl enasilsegs lqeghrlwig nldpkiteyh llkllqkfgk vkqfdflfhk
+NP_001247794,       61 sgalegqprg ycfvnfetkq eaeqaiqcln gklalskklv vrwahaqvkr ydhnkndkil
+NP_001247794,      121 pislepssst eptqsnlsvt akikaieakl kmmaenpdae ypaapvysyf kppdkkrttp
+NP_001247794,      181 ysrtawksrr
+NP_055037,       1 mpgivelptl eelkvdevki ssavlkaaah hygaqcdkpn kefmlcrwee kdprrcleeg
+NP_055037,       61 klvnkcaldf frqikrhcae pfteywtcid ytgqqlfrhc rkqqakfdec vldklgwvrp
+NP_055037,      121 dlgelskvtk vktdrplpen pyhsrprpdp speiegdlqp athgsrfyfw tk
+NP_001244666,       1 msctrmiqvl dprpltssvm pvdvamrlcl ahsppvksfl gpyddfqrrh fvnklkplkp
+NP_001244666,       61 clnikqeaks qndwkcshnq akkrvvfads kglsltaihv fsdlpeepaw dlqfdlldln
+NP_001244666,      121 dissalkrhe eknlildfpq pstdylsfrs hfqknfvcle ncslqertvt gtvkvknvsf
+NP_001244666,      181 ekkvqiritf dswksytdvd cvymknvygg sdsdtfsfai dlppvipteq kiefcisyha
+NP_001244666,      241 ngqvfwdnnd gqnyrivhvq wkpdgvqtqm apqdcafhqt spktelesti fgsprmasgl
+NP_001244666,      301 fpewqswgrm enlasyr
+NP_006784,       1 maaavgrllr asvarhvsai pwgisataal rpaacgrtsl tnllcsgssq aklfstsssc
+NP_006784,       61 hapavtqhap yfkgtavvng efkdlslddf kgkylvlffy pldftfvcpt eivafsdkan
+NP_006784,      121 efhdvncevv avsvdshfsh lawintprkn gglghmnial lsdltkqisr dygvllegsg
+NP_006784,      181 lalrglfiid pngvikhlsv ndlpvgrsve etlrlvkafq yvethgevcp anwtpdspti
+NP_006784,      241 kpspaaskey fqkvnq
+NP_001244823,     1 mekssscesl gsqpaaarpp svdslssast shsensvhtk sasvvssdsi stsadnfspd
+NP_001244823,       61 lrvlresnkl aemeeppllp genikdmakd vtyicpftga vrgtltvtny rlyfksmerd
+NP_001244823,      121 ppfvldaslg visrvekigg assrgensyg letvckdirs lrfahkpegr trrsifenlm
+NP_001244823,      181 kyafpvsnnl plfafeykev fpengwklyd plleyrrqgi pneswritki neryelcdty
+NP_001244823,      241 pallvvpani pdeelkrvgs frsrgripvl swihpesqat vtrcsqpmvg vsgkrskede
+NP_001244823,      301 kylqaimdsn aqshkififd arpsvnavan kakgggyese dayqnaelvf ldihnihvmr
+NP_001244823,      361 eslrklkeiv ypnieethwl snlesthwle hiklilagal riadkvesgk tsvvvhcsdg
+NP_001244823,      421 wdrtaqltsl amlmldgyyr tirgfevlve kewlsfghrf qlrvghgdkn hadadrspvf
+NP_001244823,      481 lqfidcvwqm trqfptafef neyflitild hlysclfgtf lcnseqqrgk enlpkrtvsl
+NP_001244823,      541 wsyinsqaed ftnplygsys nhvlypvasm rhlelwvgyy irwnprmkpq epihnrykel
+NP_001244823,      601 lakraelqkk veelqreisn rstssseras spaqcvtpvq tvv
+NP_001244378,       1 maifsvyvvn kaggliyqld syapraeaek tfsypldlll klhdervlva fgqrdgirvg
+NP_001244378,       61 havlaingmd vngkytadgk evleylgnpa nypvsirfgr prltsneklm lasmfhslfa
+NP_001244378,      121 igsqlspeqg ssgiemletd tfklhcyqtl tgikfvvlad prqagidsll rkiyeiysdf
+NP_001244378,      181 alknpfysle mpircelfdq nlklalevae kagtfgpgs
+NP_001245167,     1 magtvlgvga gvfilallwv avlllcvlls rasgaarfsv iflffgavii tsvlllfpra
+NP_001245167,       61 gefpapevev kivddffigr yvllaflsai flgglflvli hyvlepiyak plhsy
+NP_001245252,     1 maakqppplm kkhsqtdlvs rlktrkilgv ggedddgevh rskisqvlgn eikftirepl
+NP_001245252,       61 glrvwqfvsa vlfsgiaima lafpdqlyda vfdgaqvtsk tpirlyggal lsislimwna
+NP_001245252,      121 lytaekviir wtllteacyf gvqflvvtat laetglmslg illllvsrll fvvisiyyyy
+NP_001245252,      181 qvgrrpkka
+NP_001248452,       1 mdplraqqla aelevemmad mynrmtsach rkcvpphyke aelskgesvc ldrcvskyld
+NP_001248452,       61 ihermgkklt elsmqdeelm krvqqssgpa
+NP_001244760,       1 madldklnid siiqrllevr gskpgknvql qeneirglcl ksreiflsqp illeleaplk
+NP_001244760,       61 icgdihgqyy dllrlfeygg fppesnylfl gdyvdrgkqs leticlllay kikypenffl
+NP_001244760,      121 lrgnhecasi nriygfydec krryniklwk tftdcfnclp iaaivdekif cchgglspdl
+NP_001244760,      181 qsmeqirrim rptdvpdqgl lcdllwsdpd kdvlgwgend rgvsftfgae vvakflhkhd
+NP_001244760,      241 ldlicrahqv vedgyeffak rqlvtlfsap nycgefdnag ammsvdetlm csfqilkpae
+NP_001244760,      301 kkkpnatrpv tpprgmitkq akk
+NP_001247615,    1 mkfqykedhp feyrkkegek irkkypdrvp vivekapkar vpdldkrkyl vpsdltvgqf
+NP_001247615,       61 yflirkrihl rpedalfffv nntipptsat mgqlyednhe edyflyvays desvygk
+NP_001248038,        1 mtsrrwfhpn itgveaenll ltrgvdgsfl arpsksnpgd ftlsvrrnga vthikiqntg
+NP_001248038,       61 dyydlyggek fatlaelvqy ymehhgqlke kngdvielky plncadptse rwfhghlsgk
+NP_001248038,      121 eaeklltekg khgsflvres qshpgdfvls vrtgddkges ndgkskvthv mircqelkyd
+NP_001248038,      181 vgggerfdsl tdlvehykkn pmvetlgtvl qlkqplnttr inaaeiesrv relsklaett
+NP_001248038,      241 dkvkqgfwee fetlqqqeck llysrkegqr qenknknryk nilpfdhtrv vlhdgdpnep
+NP_001248038,      301 vsdyinanii mpefetkcnn skpkksyiat qgclqntvnd fwrmvfqens rvivmttkev
+NP_001248038,      361 ergkskcvky wpdeyalkey gvmrvrnvke saahdytlre lklskvgqgn tertvwqyhf
+NP_001248038,      421 rtwpdhgvps dpggvldfle evhhkqesim dagpvvvhcs agigrtgtfi vidilidiir
+NP_001248038,      481 ekgvdcdidv pktiqmvrsq rsgmvqteaq yrfiymavqh yietlqrrie eeqkskrkgh
+NP_001248038,      541 eytnikysla dqtsgdqspl ppctptppca emredsarvy envglmqqqk sfr
+NP_055180,       1 madgqmpfsc hypsrlrrdp frdsplssrl lddgfgmdpf pddltaswpd walprlssaw
+NP_055180,       61 pgtlrsgmvp rgptatarfg vpaegrtppp fpgepwkvcv nvhsfkpeel mvktkdgyve
+NP_055180,      121 vsgkheekqq eggivsknft kkiqlpaevd pvtvfaslsp eglliieapq vppystfges
+NP_055180,      181 sfnnelpqds qevtct
+NP_055046 ,      1 msapaqppae gtegtapggg ppgpppnmts nrrlqqtqaq veevvdiirv nvdkvlerdq
+NP_055046 ,       61 klselddrad alqagasqfe ssaaklkrky wwknckmmim lgaicaiivv viviyfft
+NP_060921,       1 mflmptssel nsgqnfltqw mtnpsragvi lnrgfpilea dkekraavdi stsfpikgth
+NP_060921,       61 fsdsfsfine edslleeqkl esnnpykpqs dksethtafp cikkgpqvaa chsapghqee
+NP_060921,      121 nkndfipdla sefkegaykd plfkkleqlk evqqkkqeql krqqleqlqr lmeeqekllt
+NP_060921,      181 mvsgqctlpg lsllpddqsq khrspgnttt geratccfps yvypdptqee typsnilshe
+NP_060921,      241 qsnfcrtahg dfvltskras pnlfseaqyq eapveknnlk eenrnhptge silcwekvte
+NP_060921,      301 qiqeandknl qkhddsseva nieerpikaa igerkqtfed yleeqiqlee qelkqkqlke
+NP_060921,      361 aegplpikak pkqpflkrge glarftnaks kfqkgkeskl vtnqstsedq plfkmdrqql
+NP_060921,      421 qrktalknke lcadnpilkk dskartksgs vtlsqkpkml kcsnrkslsp sglkiqtgkk
+NP_060921,      481 cdgqfrdqik fenkvtsnnk envtecpkpc dtgctgwnkt qgkdrlplst gpasrlaaks
+NP_060921,      541 piretmkese ssldvslqkk letwerekek enleldeflf leqaadeisf ssnssfvlki
+NP_060921,      601 lerdqqickg hrmsstpvka vpqktnpadp ishcnrsedl dhtarekese cevapkqlhs
+NP_060921,      661 lssadelreq pckirkavqk stsenqtewn arddegvpns dsstdseeql dvtikpsted
+NP_060921,      721 rergissred spqvcddkgp fkdtrtqedk rrdvdldlsd kdyssdesim esikhkvsep
+NP_060921,      781 srssslslsk mdfddertwt dleenlcnhd vvlgnestyg tpqtcypnne igildktikr
+NP_060921,      841 kiapvkrged lsksrrsrsp ptselmmkff pslkpkpksd shlgnelkln isqdqppgdn
+NP_060921,      901 arsqvlreki ieleteiekf kaenaslakl rieresalek lrkeiadfeq qkakelarie
+NP_060921,      961 efkkeemrkl qkerkvfeky ttaartfpdk kereeiqtlk qqiadlredl krketkwsst
+NP_060921,     1021 hsrlrsqiqm lvrentdlre eikvmerfrl dawkraeaie sslevekkdk lantsvrfqn
+NP_060921,     1081 sqissgtqve kykknylpmq gnpprrsksa pprdlgnldk gqaasprepl eplnfpdpey
+NP_060921,     1141 keeeedqdiq geishpdgkv ekvykngcrv ilfpngtrke vsadgktitv tffngdvkqv
+NP_060921,     1201 mpdqrviyyy aaaqtthtty peglevlhfs sgqiekhypd grkeitfpdq tvknlfpdgq
+NP_060921,     1261 eesifpdgti vrvqrdgnkl iefnngqrel htaqfkrrey pdgtvktvya nghqetkyrs
+NP_060921,     1321 grirvkdkeg nvlmdtel
+NP_001244735,        1 mnarglgsel kdsipvtels asgpfeshdl lrkgfscvkn ellpshplel seknfqlnqd
+NP_001244735,       61 kmnfstlrni qglfaplklq mefkavqqvq rlpflsssnl sldilrgnde tigfedilnd
+NP_001244735,      121 psqsevmgep hlmveyklgl l
+NP_001248167,        1 madealflll hnemvsgvyk saeqgeveng rcitklenmg frvgqglier ftkdtarfkd
+NP_001248167,       61 eldimkfick dfwttvfkkq idnlrtnhqg iyvlqdnkfr lltqmsagkq ylehaskyla
+NP_001248167,      121 ftcglirggl snlgiksivt aevssmpack fqvmiqkl
+NP_006282,       1 mseassedlv ppleagaapy reeeeaakkk kekkkkskgl anvfcvftkg kkkkgqpssa
+NP_006282,       61 epedaagsrq gldgppptve elkaalergq leaarpllal erelaaaaaa ggvseeelvr
+NP_006282,      121 rqskvealye llrdqvlgvl rrpleapper lrqalavvae qeredrqaaa agpgtsglaa
+NP_006282,      181 trprrwlqlw rrgvaeaaee rmgqrpaaga evpesvflhl grtmkedlea vverlkplfp
+NP_006282,      241 aefgvvaaya esyhqhfaah laavaqfelc erdtymlllw vqnlypndii nspklvgelq
+NP_006282,      301 gmglgsllpp rqirlleatf lsseaanvre lmdralelea rrwaedvppq rldghchsel
+NP_006282,      361 aidiiqitsq aqakaesitl dlgsqikrvl lvelpaflrs yqrafnefle rgkqltnyra
+NP_006282,      421 nvianinncl sfrmsmeqnw qvpqdtlsll lgplgelksh gfdtllqnlh edlkplfkrf
+NP_006282,      481 thtrwaapve tleniiatvd trlpefselq gcfreelmea lhlhlvkeyi iqlskgrlvl
+NP_006282,      541 ktaeqqqqla gyilanadti qhfctqhgsp atwlqpalpt laeiirlqdp saikievaty
+NP_006282,      601 atcypdfskg hlsailaikg nlsnsevkri rsildvsmga qepsrplfsl ikvg
+NP_000419,        1 mrprtkarsp gralrnpwrg flpltlalfv gaghaqrdpv gryepaggda nrlrrpggsy
+NP_000419,       61 paaaaakvys lfreqdapva glqpveraqp gwgsprrpte aearrpsraq qsrrvqppaq
+NP_000419,      121 trrstplgqq qpaprtraap alprlgtpqr sgaapptppr grltgrnvcg gqccpgwtta
+NP_000419,      181 nstnhcikpv ceppcqnrgs csrpqlcvcr sgfrgarcee vipdeefdpq nsrlaprrwa
+NP_000419,      241 erspnlrrss aagegtlara qppapqsppa pqsppagtls glsqthpsqq hvglsrtvrl
+NP_000419,      301 hptatassql ssnalppgpg leqrdgtqqa vplehpsspw glnltekikk ikivftptic
+NP_000419,      361 kqtcarghca nscergdttt lysqgghghd pksgfriyfc qipclnggrc igrdecwcpa
+NP_000419,      421 nstgkfchlp ipqpdreppg rgsrpralle aplkqstftl plsnqlasvn pslvkvhihh
+NP_000419,      481 ppeasvqihq vaqvrggvee alvensvetr pppwlpaspg hslwdsnnip arsgepprpl
+NP_000419,      541 ppaaprprgl lgrcylntvn gqcanpllel ttqedccgsv gafwgvtlca pcpprpaspv
+NP_000419,      601 iengqlecpq gykrlnlthc qdinecltlg lckdaecvnt rgsylctcrp glmldpsrsr
+NP_000419,      661 cvsdkaisml qglcyrslgp gtctlplaqr itkqicccsr vgkawgsece kcplpgteaf
+NP_000419,      721 reicpaghgy tyassdirls mrkaeeeela rppreqgqrs sgalpgpaer qplrvvtdtw
+NP_000419,      781 leagtipdkg dsqagqvtts vthapawvtg nattppmpeq giaeiqeeqv tpstdvlvtl
+NP_000419,      841 stpgidrcaa gatnvcgpgt cvnlpdgyrc vcspgyqlhp sqayctddne clrdpckgkg
+NP_000419,      901 rcinrvgsys cfcypgytla tsgatqecqd ineceqpgvc sggqctnteg syhcecdqgy
+NP_000419,      961 imvrkghcqd inecrhpgtc pdgrcvnspg sytclaceeg yrgqsgscvd vnecltpgvc
+NP_000419,     1021 ahgkctnleg sfrcsceqgy evtsdekgcq dvdecasras cptglclnte gsfacsacen
+NP_000419,     1081 gywvnedgta cedldecafp gvcpsgvctn tagsfsckdc dggyrpsplg dscedvdece
+NP_000419,     1141 dpqssclgge ckntvgsyqc lcpqgfqlan gtvcedvnec mgeehcaphg eclnshgsff
+NP_000419,     1201 clcapgfvsa eggtscqdvd ecattdpcvg ghcvntegsf nclcetgfqp spesgecvdi
+NP_000419,     1261 decedygdpv cgtwkcensp gsyrcvlgcq pgfhmapngd cididecand tmcgshgfcd
+NP_000419,     1321 ntdgsfrclc dqgfeispsg wdcvdvnece lmlavcgaal cenvegsflc lcasdleeyd
+NP_000419,     1381 aqeghcrprg aggqsmseap tgdhapaptr mdcysgqkgh apcssvlgrn ttqaeccctq
+NP_000419,     1441 gaswgdacdl cpsedsaefs eicpsgkgyi pvegawtfgq tmytdadecv ifgpglcpng
+NP_000419,     1501 rclntvpgyv clcnpgfhyd ashkkcedhd ecqdlaceng ecvntegsfh cfcsppltld
+NP_000419,     1561 lsqqrcmnst sstedlpdhd ihmdicwkkv tndvcseplr ghrttytecc cqdgeawsqq
+NP_000419,     1621 calcpprsse vyaqlcnvar ieaereagvh frpgyeygpg pddlhysiyg pdgapfynyl
+NP_000419,     1681 gpedtvpepa fpntaghsad rtpilesplq pselqphyva shpeppagfe glqaeecgil
+NP_000419,     1741 ngcengrcvr vregytcdcf egfqldaahm acvdvnecdd lngpavlcvh gycentegsy
+NP_000419,     1801 rchcspgyva eagpphctak e
+NP_001248048,       1 mfraaapgql rraasllrfq stlviaehan dslapitlnt itaatrlgge vsclvagtkc
+NP_001248048,       61 dkvaqdlckv agiakvlvaq hdayrgllae eltplilatq kqfnythica gasafgknll
+NP_001248048,      121 prvaakleva pisdiiaiks pdtfvrtiya gnalctvkcd ekvkvfsvrg tsfeaaatsg
+NP_001248048,      181 gtassekass tspveisewl dqkltksdrp eltgakvvvs ggrglksgen fkllydladq
+NP_001248048,      241 lhaavgasra avdagfvpnd mqvgqtgkiv apelyiavgi sgaiqhlagm kdsktivain
+NP_001248048,      301 kdpeapifqv adygivadlf kvvpemteil kkk
+NP_001244860,        1 mllatlllll llggalahpd riifpnlace dppavllevq gtlqrplvrd srsspanctw
+NP_001244860,       61 lilgskeqtv tirfqklhla cgsehltlrs plqppislce appsplqlpg gnvtitysya
+NP_001244860,      121 garapmgqgf llsysqdwlm clqeefqcln hrcvsavqrc dgidacgdgs deagcssdpf
+NP_001244860,      181 pgltprpips lpcnltledf ygvfsspgya hlasvshpqs chwlldphdg rrlavrftal
+NP_001244860,      241 dlgfgdavhv fdgpgppess rllrslthfs ngkavtvetl sgqavvsyht vawsngrgfn
+NP_001244860,      301 atyhvrgycl pwdrpcglgs glgageglge rcyseaqrcd gswdcadgtd eedcpgcppg
+NP_001244860,      361 hfpcgaagts gatacylpad rcnyqtfcad gaderrcrhc qpgnfrcrde kcvyetwvcd
+NP_001244860,      421 gqpdcadgsd ewdcsyvlpr kvitaavigs lvcglllvia lgctcklyai rtqeysifap
+NP_001244860,      481 lsrmeaeivq qqappsygql iaqgaippve dfptenpndn svlgnlrsll qilrqdmtpg
+NP_001244860,      541 ggsgarrrqr grlmrrlvrr lrrwgllprt ntparasear sqvthsaapl ealdggtgpa
+NP_001244860,      601 ceggavggqd geqapplpik aplpsastsl apttvpeapg plpslpleps llsgvvqalr
+NP_001244860,      661 grllpslgpp gptrspagph tavltpeded dvllvplaep gvwvaeaede pllt
+NP_001248232,        1 msaggdfgnp lrkfklvflg eqsvgktsli trfmydsfdn tyqatigidf lsktmyledr
+NP_001248232,       61 tirlqlwdta gqerfrslip syirdsaaav vvyditnvns fqqttkwidd vrtergsdvi
+NP_001248232,      121 imlvgnktdl adkrqvsiee gerkakelnv mfietsakag ynvkqlfrrv aaalpgmest
+NP_001248232,      181 qdrsredmid iklekpqeqp vseggcsc
+NP_055041,      1 mknykaigki gegtfsevmk mqslrdgnyy ackqmkqrfe sieqvnnlre iqalrrlnph
+NP_055041,       61 pnilmlhevv fdrksgslal icelmdmniy elirgrrypl sekkimhymy qlcksldhih
+NP_055041,      121 rngifhrdvk penilikqdv lklgdfgscr svyskqpyte yistrwyrap eclltdgfyt
+NP_055041,      181 ykmdlwsagc vfyeiaslqp lfpgvneldq iskihdvigt paqkiltkfk qsramnfdfp
+NP_055041,      241 fkkgsgipll ttnlspqcls llhamvaydp deriaahqal qhpyfqeqrk tekralgshr
+NP_055041,      301 kagfpehpva peplsnscqi skegrkqkqs lkqeedrpkr rgpayvmelp klklsgvvrl
+NP_055041,      361 ssyssptlqs vlgsgtngrv pvlrplkcip askktdpqkd lkpapqqcrl ptivrkggr
+NP_116265,       1 merlgekasr llekfgrrkg essrsgsdgt pgpgkgrlsg lggprksgpr gatggpgdep
+NP_116265,       61 lepareqgsl daernqrgsf eapryegsfp agppptralp lpqslppdfr leptapalsp
+NP_116265,      121 rssfasssas daskpssprg sllldgagag gaggsrpcsn rtsgismgyd qrhgsplpag
+NP_116265,      181 pclfgpplag apagyspggv psaypelhaa ldrlyaqrpa gfgcqesrhs yppalgspga
+NP_116265,      241 lagagvgaag plerrgaqpg rhsvtgygdc avgaryqdel tallrltvgt ggreagarge
+NP_116265,      301 psgiepsgle eppgpfvpea ararmrepea redyfgtcik cnkgiygqsn acqaldslyh
+NP_116265,      361 tqcfvccscg rtlrckafys vngsvyceed ylfsgfqeaa ekccvcghli lekilqamgk
+NP_116265,      421 syhpgcfrci vcnkcldgip ftvdfsnqvy cvtdyhknya pkcaacgqpi lpsegcediv
+NP_116265,      481 rvismdrdyh fecyhcedcr mqlsdeegcc cfpldghllc hgchmqrlna rqppanyi
+NP_001247876,       1 mdapkagyaf eylietlnds shkkffdvsk lggtkydvlp ysirvlleaa vrncdgflmk
+NP_001247876,       61 kedvmnildw ktkqsnvevp ffparvllqd ftgipamvdf aamreavktl ggdpkkvhpa
+NP_001247876,      121 cptdltvdhs lqidfskcai qnapnpgggd lqkagklspl kvqpkklpcr gqttcrgscd
+NP_001247876,      181 sgelgrnsgt fssqientpi lcpfhlqpvp epetvlknqe vefgrnrerl qffkwssrvf
+NP_001247876,      241 knvavippgt gmahqvnley lsrvvfeekd llfpdsvvgt dshitmvngl gilgwgvggi
+NP_001247876,      301 eteavmlglp vsltlpevvg celtgssnpf vtsidvvlgi tkhlrqvgva gkfveffgsg
+NP_001247876,      361 vsqlsivdrt tianmcpeyg ailsffpvdn vtlkhlehtg fskaklesme tylkavklfr
+NP_001247876,      421 ndqnssgepe ysqviqinln sivpsvsgpk rpqdrvavtd mksdfqacln ekvgfkgfqi
+NP_001247876,      481 aaekqrdivs ihyegseykl shgsvviaav isctnncnps vmlaagllak kaveaglhvk
+NP_001247876,      541 pyirtslspg sgmvthylss sgvlpylskl gfeivgygcs tcvgntapls eavlnavkqg
+NP_001247876,      601 dlvtcgilsg nknfegrlcd cvranylasp plvvayaiag tvnidfqtep lgtdstgkni
+NP_001247876,      661 ylhdiwpsre evhrveeehv ilsmfkalkd kiemgnkrwn sleapdsvlf pwdlkstyir
+NP_001247876,      721 cpsffdkltk epvalqaien ahvllylgds vttdhispag siarnsaaak yltnrgltpr
+NP_001247876,      781 efnsygarrg ndavmtrgtf aniklfnkfi gkpapktihf psgqtldvfe aaelyqkegi
+NP_001247876,      841 pliilagkky gsgnsrdwaa kgpyllgvka vlaesyekih kdhligigia plqflpgena
+NP_001247876,      901 dslglsgret fsltfpeels pgitlniqts tgkvfsvias feddveitly khggllnfva
+NP_001247876,      961 rkfs
+NP_001245131,       1 malydlfshp versyraglc skaalfllla aaltyippll vafrshgfwl krssyeeqpt
+NP_001245131,       61 vrfqhqvllv allgpesggf lawstfpafn rlqgdrlrvp lvstreedrn qdgkmdmlhf
+NP_001245131,      121 klelplqste hvlgvqlilt fsyqlhrmvt lvmqsmaflq ssfpvpgsql yvngdlrlqq
+NP_001245131,      181 kqplscggld arynvsving tspfaydydl thivaayqer nvttilndpn piwlvgraad
+NP_001245131,      241 apfvinaiir ypvevisyqp gfwemvkfaw vqyvsillif lwvferikif vfqnqvvtti
+NP_001245131,      301 pvtatprgem ckehls
+NP_001244749,       1 masrvlssyv rrlpaafapl prvpmlavar plstglcsvg tqtrlgplqp alklaqvpgr
+NP_001244749,       61 vtqlcrqysd mppltlegir drvlyvlkly dkidpeklsv dshfmkdlgl dsldqveiim
+NP_001244749,      121 amedefgfei pdtdaeklmc pqeivdyiad kkdvye
+NP_001247619 ,        1 mgimaasrpl srfwewgkni vcvgrnyadh vremrsavls epvlflkpst ayapegspil
+NP_001247619 ,       61 mpaytrnlhh elelgvvmgk rcravpeaaa mdyvggyalc ldmtardvqd eckkkglpwt
+NP_001247619 ,      121 laksftascp vsafvpkeki pdphklklwl kvngelrqeg etasmifsip yiisyvskii
+NP_001247619 ,      181 tleegdiilt gtpkgvgpvk endeieagih glvsmrfkve kpey
+NP_065978,        1 makegvekae eteqmiekea gkepaegggg dgshrlgdaq emravvlagf gglnklrlfr
+NP_065978,       61 kampepqdge lkirvkacgl nfidlmvrqg nidnppktpl vpgfecsgiv ealgdsvkgy
+NP_065978,      121 eigdrvmafv nynawaevvc tpvefvykip ddmsfseaaa fpmnfvtayv mlfevanlre
+NP_065978,      181 gmsvlvhsag ggvgqavaql cstvpnvtvf gtastfkhea ikdsvthlfd rnadyvqevk
+NP_065978,      241 risaegvdiv ldclcgdntg kglsllkplg tyilygssnm vtgetksffs fakswwqvek
+NP_065978,      301 vnpiklyeen kviagfslln llfkqgragl irgvveklig lynqkkikpv vdslwaleev
+NP_065978,      361 keamqrihdr gnigklildv ektptplman dstetseage eeedhegdse nkermpfiq
+NP_037374,        1 mfkntfqsgf lsilysigsk plqiwdkkvr nghikritdn diqslvleie gtnvsttyit
+NP_037374,       61 cpadpkktlg iklpflvmii knlkkyftfe vqvlddknvr rrfrasnyqs ttrvkpfict
+NP_037374,      121 mpmrlddgwn qiqfnlldft rraygtnyie tlrvqihanc rirrvyfsdr lysedelpae
+NP_037374,      181 fklylpvqnk akq
+NP_001244382,       1 mspnfklqch filifltalr gesrylelre aadydpfllf sanlkrelag eqpyrralrc
+NP_001244382,       61 ldmlslqgqf tftadrpqlh caaffigepe efitihydqv sidcqggdfl kvfdgwilkg
+NP_001244382,      121 ekfpssqdhp lptaeryidf cetglsrrsi rssqnvamif frvrepgngf tltiktdpnl
+NP_001244382,      181 fpcnvisqtp ngkftlvvph qhrncsfsii ypvvikisdl tlghvnglql kkssagcegi
+NP_001244382,      241 gdfvellggt gldpskmipl adlcypfhgp aqmkvgcdnt vvrmvssgkh inrvtfeyrq
+NP_001244382,      301 lepyelenpn gnsigefcls dl
+NP_001248466,      1 mavpgcnkds vragckkcgy pghltfecrn flrvdpkrdi vldvsstsse dsdeeneeln
+NP_001248466,       61 klqalqekri neeeekkkek skekiklkkk rkrsysssst eedtskqkkq kyqkkekkke
+NP_001248466,      121 kkskskkgkh hkkekkkrkk ekqsstpnse fsrk
+NP_009209,        1 mkfvykeehp fekrrsegek irkkypdrvp vivekapkar igdldkkkyl vpsdltvgqf
+NP_009209,       61 yflirkrihl raedalfffv nnvipptsat mgqlyqehhe edfflyiays desvygl
+NP_003907,       1 mqfmllfsrq gklrlqkwyv plsdkekkki trelvqtvla rkpkmcsfle wrdlkivykr
+NP_003907,       61 yaslyfccai edqdnelitl eiihryvell dkyfgsvcel diifnfekay fildefllgg
+NP_003907,      121 evqetskknv lkaieqadll qeeaetprsv leeiglt
+NP_115756,       1 mltnlrifam shqtipsvyi nniccykira slkrlkphvp lgrncsslpg ligndikslh
+NP_115756,       61 siinppiaki rnigimahid agktttteri lyysgytrsl gdvddgdtvt dfmaqererg
+NP_115756,      121 itiqsaavtf dwkgyrvnli dtpghvdftl everclrvld gavavfdasa gveaqtltvw
+NP_115756,      181 rqadkhnipr icflnkmdkt gasfkyaves ireklkakpl llqlpigeak tfkgvvdvvm
+NP_115756,      241 kekllwncns ndgkdferkp llemndpell kettearnal ieqvadldde fadlvleefs
+NP_115756,      301 enfdllpaek lqtaihrvtl aqtavpvlcg salknkgiqp lldavtmylp speernyefl
+NP_115756,      361 qwykddlcal afkvlhdkqr gplvfmriys gtikpqlaih ningncteri srlllpfadq
+NP_115756,      421 hveipsltag nialtvglkh tatgdtivss kssalaaarr aeregekkhr qnneaerlll
+NP_115756,      481 agveipepvf fctieppsls kqpdlehalk clqredpslk vrldpdsgqt vlcgmgelhi
+NP_115756,      541 eiihdrikre ygletylgpl qvayretiln svratdtldr tlgdkrhlvt vevearpiet
+NP_115756,      601 ssvmpviefe yaesinegll kvsqeaieng ihsaclqgpl lgspiqdvai tlhsltihpg
+NP_115756,      661 tsttmisacv srcvqkalkk adkqvleplm nlevtvardy lspvladlaq rrgniqeiqt
+NP_115756,      721 rqdnkvvigf vplaeimgys tvlrtltsgs atfalelsty qamnpqdqnt llnrrsglt
+NP_001244514,        1 mffsaalrar aagltahwgr hvrnlhktam qngaggalfv hrdtpennpd tpfdftpeny
+NP_001244514,       61 krieaivkny peghkaaavl pvldlaqrqn gwlpisamnk vaevlqvppm rvyevatfyt
+NP_001244514,      121 mynrkpvgky hiqvctttpc mlrnsdsile aiqkklgikv gettpdklft lieveclgac
+NP_001244514,      181 vnapmvqind nyyedltpkd ieeiidelka gkipkpgprs grfscepagg ltslteppkg
+NP_001244514,      241 pgfgvqagl
+NP_005248,        1 maltdggwcl pkrfgaagad asdsrafpar epstppspis ssssscsrgg ergpggasnc
+NP_005248,       61 gtpqldteaa agpparslll ssyashpfga phgpsapgva gpggnlsswe dlllftdldq
+NP_005248,      121 aataskllws srgaklspfa peqpeemyqt laalssqgpa aydgapggfv hsaaaaaaaa
+NP_005248,      181 aaasspvyvp ttrvgsmlpg lpyhlqgsgs gpanhaggag ahpgwpqasa dsppygsggg
+NP_005248,      241 aagggaagpg gagsaaahvs arfpyspspp mangaarepg gyaaagsgga ggvsgggssl
+NP_005248,      301 aamggrepqy sslsaarpln gtyhhhhhhh hhhpspyspy vgapltpawp agpfetpvlh
+NP_005248,      361 slqsragapl pvprgpsadl ledlsesrec vncgsiqtpl wrrdgtghyl cnacglyskm
+NP_005248,      421 nglsrplikp qkrvpssrrl glscanchtt tttlwrrnae gepvcnacgl ymklhgvprp
+NP_005248,      481 lamkkegiqt rkrkpknink sktcsgnsnn sipmtptsts snsddcsknt spttqptasg
+NP_005248,      541 agapvmtgag estnpensel kysgqdglyi gvslaspaev tssvrpdswc alala
+NP_001248239,       1 mavesvaist lipqdppeqe lilvkvednf swdekfkqng stqscqelfr qqfrkfcyqe
+NP_001248239,       61 tpgprealsq lqelcyqwlm pelhtkeqil ellvleqfls ilpeelqiwv qqhnpksgee
+NP_001248239,      121 avtlledler efddpgqqvp aspqepavpw kdltclrasq espnihlqpl ktqlkswkpc
+NP_001248239,      181 lspksdcenn etatkgisee ksqglpqeps frgisehesn lvwkqgsatg eklrspsqgg
+NP_001248239,      241 sfnqviftnk slgkrdlyde tdrclilttd simcqnvppe erpyrcdvcg hsfkqhsslt
+NP_001248239,      301 qhqrihtgek pykcnqcgka fslrsyliih qrihsgekay ecsecgkafn qssalirhrk
+NP_001248239,      361 ihtgekackc necgkafsqs syliihqrih tgekpyecne cgktfsqssk lirhqrihtg
+NP_001248239,      421 erpyecnecg kafrqsseli thqrihsgek pyecnecgka fslssnlirh qrihsgeepy
+NP_001248239,      481 qcnecgktfk rssalvqhqr ihsgdeayic necgkafrhr svlmrhqrvh tik
+NP_002885,       1 mnisgsscgs pnsadtssdf kdlwtklkec hdrevqglqv kvtklkqeri ldaqrleeff
+NP_002885,       61 tknqqlreqq kvlhetikvl edrlraglcd rcavteehmr kkqqefenir qqnlklitel
+NP_002885,      121 mnerntlqee nkklseqlqq kiendqqhqa aeleceedvi pdspitafsf sgvnrlrrke
+NP_002885,      181 nphvryieqt htklehsvca nemrkvskss thpqhnpnen eilvadtydq sqspmakahg
+NP_002885,      241 tssytpdkss fnlatvvaet lglgvqeese tqgpmsplgd elyhclegnh kkqpfeestr
+NP_002885,      301 ntedslrfsd stsktppqee lptrvsspvf gatssiksgl dlntslspsl lqpgkkkhlk
+NP_002885,      361 tlpfsntcis rlektrskse dsalfthhsl gsevnkiiiq ssnkqilink niseslgeqn
+NP_002885,      421 rteygkdsnt dkhleplksl ggrtskrkkt eeesehevsc pqasfdkena fpfpmdnqfs
+NP_002885,      481 mngdcvmdkp ldlsdrfsai qrqeksqgse tsknkfrqvt lyealktipk gfsssrkasd
+NP_002885,      541 gnctlpkdsp gepcsqecii lqplnkcspd nkpslqikee navfkiplrp resletenvl
+NP_002885,      601 ddiksagshe pikiqtrsdh ggcelasvlq lnpcrtgkik slqnnqdvsf eniqwsidpg
+NP_002885,      661 adlsqykmdv tvidtkdgsq sklggetvdm dctlvsetvl lkmkkqeqkg ekssneerkm
+NP_002885,      721 ndsledmfdr ttheeyescl adsfsqaade eeelstatkk lhthgdkqdk vkqkafvepy
+NP_002885,      781 fkgderetsl qnfphievvr kkeerrkllg htckeceiyy admpaeerek klascsrhrf
+NP_002885,      841 ryippntpen fwevgfpstq tcmergyike dldpcprpkr rqpynaifsp kgkeqkt
+NP_001244733,       1 mvtrflgpry rqlvknwipt aytwgamgav glvwatdwrl ildwvpyvng kfkkdd
+NP_001244850,       1 maasrlelnl vrllsrceam aaekrdpdew rlekyvgale dmlqalkvha skpasevine
+NP_001244850,       61 yswkvdflkg mlqaekltss sekalanqfl apgrvpttar ervpatktvh lqsrarytse
+NP_001244850,      121 mrsellgtds aepemdvrkr tgvagsqpvs ekqsaaeldl vlqrhqnlqe klaeemlgla
+NP_001244850,      181 rslktntlaa qsiikkdnqt lshslkmadq nleklktese rleqhtqksv nwflwamlii
+NP_001244850,      241 vcfifismil firimpklk
+NP_001244977,       1 mrltrcqaal aaaitlnllv lfyvswlqhq prnsrargpr rasaagprvt vlvrefeafd
+NP_001244977,       61 navpelvdsf lqqdpaqplv vaadtlpypp lalpripnvr lallqpaldr paaasrpety
+NP_001244977,      121 vttefvalvp dgaraeapgq lermvealrv gkarlvaapv atanparcla lnvslrewta
+NP_001244977,      181 rygaapaapr cdaldgdavv llrardlfnl saplarpvgt slflqtslrg wavqlldltf
+NP_001244977,      241 aaarqppltt aharwkaere grarraallr algirlvswe ggrlewfgcn kettrcfgtv
+NP_001244977,      301 vgdtpaylye erwtppcclr alretaryvv gvleaagvry wleggsllga arhgdiipwd
+NP_001244977,      361 ydvdlgiyle dvgnceqlrg aeagsvvder gfvwekaveg dffrvqyses nhlhvdlwpf
+NP_001244977,      421 yprngvmtkd twldhrqdve fpehflqplv plpfagfvaq apnnyrrfle lkfgpgvien
+NP_001244977,      481 pqypnpalls ltgsg
+NP_001248186,        1 masgnarigk papdfkatav vdgafkevkl sdykgkyvvl ffypldftfv cpteiiafsn
+NP_001248186,       61 raedfrklgc evlgvsvdsq fthlawintp rkegglgpln iplladvtrr lsedygvlkt
+NP_001248186,      121 degiayrglf iidgkgvlrq itvndlpvgr svdealrlvq afqytdehge vcpagwkpgs
+NP_001248186,      181 dtikpnvdds keyfskhn
+NP_115996,        1 mntdlaagkm asaacsmdpi dsfelldllf drqdgilrhv elgegwghvk dqqvlpnpds
+NP_115996,       61 ddflssilgs gdslpssplw spegsdsgis edlpsdpqdt pprsgpatsp agchpaqpgk
+NP_115996,      121 gpclsyhpgn scstttpgpv iqvpeasvti dlemwspggr icaekpadpv dlsprcnltv
+NP_115996,      181 kdlllsgssg dlqqhhlgas yllrpgaghc qelvltedek kllakegitl ptqlpltkye
+NP_115996,      241 ervlkkirrk irnkqsaqes rkkkkeyidg letrmsacta qnqelqrkvl hlekqnlsll
+NP_115996,      301 eqlkklqaiv vqstsksaqt gtcvavllls faliilpsis pfgpnktesp gdfapvrvfs
+NP_115996,      361 rtlhndaasr vaadavpgse apgprpeadt treespgspg adwgfqdtan ltnsteeldn
+NP_115996,      421 atlvlrnate glgqvalldw vapgpstgsg ragleaagde l
+NP_001244700,       1 mfqrltslff stpsppedpd cprafvseed evdgwliidl pdsyaapssp gaasapagrp
+NP_001244700,       61 ppapslmdes wfvtppacft aegpglgpar lqsspledll iehpsmsvyv tgstivlepg
+NP_001244700,      121 ppsplpdaal pdgdlsegel apagrepraa rhvaplpara allekagqvr rlqrarqrae
+NP_001244700,      181 rhalsakavq rqnraresrp rrsknqgsfi yqpcqrqfny
+NP_001244417,      1 makveqvlsl epqhelkfrg pftdvvttnl klgnptdrnv cfkvkttapr rycvrpnsgi
+NP_001244417,       61 idagasinvs vmlqpfdydp nekskhkfmv qsmfaptdts dmeavwkeak pedlmdsklr
+NP_001244417,      121 cvfelpaend kphdveinki isttasktet pivskslsss lddtevkkvm eeckrlqgev
+NP_001244417,      181 qrlreenkqf keedglrmrk tvqsnspisa laptgkeegl strllalvvl ffivgviigk
+NP_001244417,      241 ial
+NP_004130,        1 mgalaralps illallltst pealganpgl varitdkglq yaaqegllal qsellritlp
+NP_004130,       61 dftgdlriph vgrgryefhs lnihscellh salrpvpgqg lslsisdssi rvqgrwkvrk
+NP_004130,      121 sffklqgsfd vsvkgisisv nlllgsessg rptvtasscs sdiadvevdm sgdlgwllnl
+NP_004130,      181 fhnqieskfq kvlesricem iqksvssdlq pylqtlpvtt eidsfadidy slveaprata
+NP_004130,      241 qmlevmfkge ifhrnhrspv tllaavmslp eehnkmvyfa isdyvfntas lvyheegyln
+NP_004130,      301 fsitddmipp dsnirlttks frpfvprlar lypnmnlelq gsvpsaplln fspgnlsvdp
+NP_004130,      361 ymeidafvll pssskepvfr lsvatnvsat ltfntskitg flkpgkvkve lkeskvglfn
+NP_004130,      421 aelleallny yilntfypkf ndklaegfpl pllkrvqlyd lglqihkdfl flganvqymr
+NP_004130,      481 v
+NP_001248067,       1 mpsdrpfkqr rsfadrckev qqirdqhpsk ipviierykg ekqlpvldkt kflvpdhvnm
+NP_001248067,       61 selvkiirrr lqlnptqaff llvnqhsmvs vstpiadiye qekdedgfly mvyasqetfg
+NP_001248067,      121 f
+NP_003923,       1 mdprkvnelr afvkmckqdp svlhteemrf lrewvesmgg kvppatqkak seentkeekp
+NP_003923,       61 dskkveedlk adepsseesd leidkegvie pdtdapqemg denaeiteem mdqandkkva
+NP_003923,      121 aiealndgel qkaidlftda iklnprlail yakrasvfvk lqkpnaaird cdraieinpd
+NP_003923,      181 saqpykwrgk ahrllghwee aahdlalack ldydedasam lkevqpraqk iaehrrkyer
+NP_003923,      241 kreereiker iervkkaree heraqreeea rrqsgaqygs fpggfpggmp gnfpggmpgm
+NP_003923,      301 gggmpgmagm pglneilsdp evlaamqdpe vmvafqdvaq npanmskyqs npkvmnlisk
+NP_003923,      361 lsakfggqa
+NP_055091,        1 mdpagaadps vppnplthls lqdrsemqlq seadrrslpg twtrsspeht tilrggvrrc
+NP_055091,       61 lqqqceqtvr ilhakvaqks ygnekrffcp ppcvylsgpg wrvkpgqdqa hqagetgptv
+NP_055091,      121 cgymgldsas gsatetqkln feqqpdsref gcaktlyisd adkrkhfrlv lrlvlrggre
+NP_055091,      181 lgtfhsrlik viskpsqkkq slkntdlcis sgskvslfnr lrsqtvstry lsvedgafva
+NP_055091,      241 sarqwaaftl hladghsaqg dfppregyvr ygslvqlvct vtgitlppmi irkvakqcal
+NP_055091,      301 ldvdepisql hkcafqfpgs ppggggtylc latekvvqfq aspcpkeanr allndsscwt
+NP_055091,      361 iigtesvefs fstslactle pvtpvplist lelsgggdva tlelhgenfh aglkvwfgdv
+NP_055091,      421 eaetmyrspr slvcvvpdva afcsdwrwlr apitipmslv radglfypsa fsftytpeys
+NP_055091,      481 vrpghpgvpe patdadalle sihqeftrtn fhlfiqt
+NP_001247455,        1 mselekamva lidvfhqysg regdkhklkk selkelinne lshfleeike qevvdkvmet
+NP_001247455,       61 ldsdgdgecd fqefmafvam vttacheffe he
+NP_115571,       1 matnieqifr sfvvskfrei qqelssgrne gqlngetntp iegnqagdaa asarslpnee
+NP_115571,       61 ivqkieevls gvldtelryk pdlkegsrks rcvsvqtdpt deiptkkskk hkkhknkkkk
+NP_115571,      121 kkkekekkyk rqpeeseskt kshddgnidl esdsflkfds epsavalelp trafgpsetn
+NP_115571,      181 espavvlepp vvsmevseph iletlkpatk taelsvvsts viseqseqsv avmpepsmtk
+NP_115571,      241 ildsfaaapv ptttlvlkss epvvtmsvey qmksvlksve stspepskim lveppvakvl
+NP_115571,      301 epsetlvvss etptevypep ststtmdfpe ssaiealrlp eqpvdvpsei adssmtrpqe
+NP_115571,      361 lpelpkttal elqessvasa melpgppats mpelqgppvt pvlelpgpsa tpvpelpgpl
+NP_115571,      421 stpvpelpgp patavpelpg psvtpvpqls qelpglpaps mgleppqevp eppvmaqelp
+NP_115571,      481 glplvtaave lpeqpavtva melteqpvtt teleqpvgmt tvehpghpev ttatgllgqp
+NP_115571,      541 eatmvlelpg qpvattalel pgqpsvtgvp elpglpsatr alelsgqpva tgalelpgpl
+NP_115571,      601 maagalefsg qsgaagalel lgqplatgvl elpgqpgape lpgqpvatva leisvqsvvt
+NP_115571,      661 tselstmtvs qslevpstta lesyntvaqe lpttlvgets vtvgvdplma peshilasnt
+NP_115571,      721 methilasnt mdsqmlasnt mdsqmlasnt mdsqmlasst mdsqmlatss mdsqmlatss
+NP_115571,      781 mdsqmlatst mdsqmlatss mdsqmlatss mdsqmlatss mdsqmlatss mdsqmlatst
+NP_115571,      841 mdsqmlatst mdsqmlatss mdsqmlasgt mdsqmlasgt mdaqmlasgt mdaqmlasst
+NP_115571,      901 qdsamlgsks pdpyrlaqdp yrlaqdpyrl ghdpyrlghd ayrlgqdpyr lghdpyrltp
+NP_115571,      961 dpyrmsprpy riaprsyria prpyrlaprp lmlasrrsmm msyaaersmm ssyersmmsy
+NP_115571,     1021 ersmmspmae rsmmsayers mmsayersmm spmaersmms ayersmmsay ersmmspmad
+NP_115571,     1081 rsmmsmgadr smmssysaad rsmmssysaa drsmmssyta drsmmsmaad sytdsytdty
+NP_115571,     1141 teaymvpplp peepptmppl ppeeppmtpp lppeeppegp alpteqsalt aentwptevp
+NP_115571,     1201 sspseesvsq peppvsqsei sepsavptdy svsasdpsvl vseaavtvpe pppepessit
+NP_115571,     1261 ltpvesavva eehevvperp vtcmvsetpa msaeptvlas eppvmsetae tfdsmrasgh
+NP_115571,     1321 vasevstsll vpavttpvla esileppama apessamavl essavtvles stvtvlesst
+NP_115571,     1381 vtvlepsvvt vpeppvvaep dyvtipvpvv salepsvpvl epavsvlqps mivsepsvsv
+NP_115571,     1441 qestvtvsep avtvseqtqv iptevaiest pmilessims shvmkginls sgdqnlapei
+NP_115571,     1501 gmqeialhsg eephaeehlk gdfyesehgi nidlninnhl iakemehntv caagtspvge
+NP_115571,     1561 igeekilpts etkqrtvldt ypgvseadag etlsstgpfa lepdatgtsk giefttastl
+NP_115571,     1621 slvnkydvdl slttqdtehd mvistspsgg seadiegplp akdihldlps nnnlvskdte
+NP_115571,     1681 eplpvkesdq tlaallspke ssggekevpp ppketlpdsg fsaniedine adlvrpllpk
+NP_115571,     1741 dmerltslra giegpllasd vgrdrsaasp vvssmperas essseekddy eifvkvkdth
+NP_115571,     1801 ekskknknrd kgekekkrds slrsrskrsk ssehksrkrt sesrsrarkr sskskshrsq
+NP_115571,     1861 trsrsrsrrr rrssrsrsks rgrrsvskek rkrspkhrsk srerkrkrss srdnrktvra
+NP_115571,     1921 rsrtpsrrsr shtpsrrrrs rsvgrrrsfs ispsrrsrtp srrsrtpsrr srtpsrrsrt
+NP_115571,     1981 psrrsrtpsr rsrtpsrrrr srsvvrrrsf sispvrlrrs rtplrrrfsr spirrkrsrs
+NP_115571,     2041 sergrspkrl tdldkaqlle iakanaaamc akagvplppn lkpappptie ekvakksgga
+NP_115571,     2101 tieeltekck qiaqskeddd vivnkphvsd eeeeeppfyh hpfklsepkp iffnlniaaa
+NP_115571,     2161 kptppksqvt ltkefpvssg sqhrkkeads vygewvpvek ngeenkdddn vfssnlpseg
+NP_115571,     2221 rvkrqgrvrr qmkqpaashl tvtrcnslcg tkpqsekhri aensvitslp nigpslhlwe
+NP_115571,     2281 gsprynylas rfasrlyssr fww
+NP_787054,        1 msfncstrnc ssrpiggrci vpvaqvttts ttdadclggi clpssfqtgs wlldhcqetc
+NP_787054,       61 ceptacqptc yrrtscvsnp cqvtcsrqtt cisnpcstty srpltfvssg cqplggissv
+NP_787054,      121 cqpvggistv cqpvggvstv cqpacgvsrt yqqscvsscr rtc
+NP_001244445,        1 masvlsyesl vhavagavgs vtamtvffpl dtarlrlqvd ekrksktthm vlleiikeeg
+NP_001244445,       61 llapyrgwfp visslccsnf vyfytfnslk avwvkgqrst tgkdlvvgfv agvvnvlltt
+NP_001244445,      121 plwvvntrlk lqgakfrned ivptnykgii dafhqiirde gisalwngtf pslllvfnpa
+NP_001244445,      181 iqfmfyeglk rqllkkrmkl ssldvfiiga vakaiattlt ypmqtvqsil rfgrhrlnpe
+NP_001244445,      241 nrtlgslrni lyllhqrvrr fgilglykgl eakllqtvlt aalmflvyek ltaatftvmg
+NP_001244445,      301 lkrahth
+NP_001244918,        1 maalmtpgtg appapgdfsg egsqglpdps pepkqlpeli rmkrdggrls eadirgfvaa
+NP_001244918,       61 vvngsaqgaq igamlmairl rgmdleetsv ltqalaqsgq qlewpeawrq qlvdkhstgg
+NP_001244918,      121 vgdkvslvla palaacgckv pmisgrglgh tggtldkles ipgfnviqsp eqmqvlldqa
+NP_001244918,      181 gccivgqseq lvpadgilya ardvtatvds lplitasils kklveglsal vvdvkfggaa
+NP_001244918,      241 vfpnqeqare laktlvgvga slglrvaaal tamdkplgrc vghaleveea llcmdgagpp
+NP_001244918,      301 dlrdlvttlg gallwlsgha gtqaqgaarv aaalddgsal grfermlaaq gvdpglaral
+NP_001244918,      361 csgspaerrq llprareqee llapadaplp agtvelvral plalvlhelg agrsragepl
+NP_001244918,      421 rlgvgaellv dvgqrlrrgt pwlrvhrdgp alsgpqsral qealvlsdra pfaapspfae
+NP_001244918,      481 lvlppqq
+NP_001248259,        1 mtapscafpv qfrqpsvsgl sqitkslyis ngvaannklm lssnqitmvi nvsvevvntl
+NP_001248259,       61 yediqymqvp vadapnsrlc dffdpiadhi hsvemkqgrt llhcaagvsr saalclaylm
+NP_001248259,      121 kyhamsllda htwtkscrpi irpnsgfweq lihyefqlfg kntvhmvssp mgmipdiyek
+NP_001248259,      181 evrlmipl
+NP_006817,        1 mekteliqka klaeqaeryd dmatcmkavt eqgaelsnee rnllsvaykn vvggrrsawr
+NP_006817,       61 vissieqktd tsdkklqlik dyrekvesel rsicttvlel ldkylianat npeskvfylk
+NP_006817,      121 mkgdyfryla evacgddrkq tidnsqgayq eafdiskkem qpthpirlgl alnfsvfyye
+NP_006817,      181 ilnnpelact laktafdeai aeldtlneds ykdstlimql lrdnltlwts dsageecdaa
+NP_006817,      241 egaen
+NP_114116,       1 mqwlrvresp geatghrvtm gtaalgpvwa alllfllmce ipmveltfdr avasgcqrcc
+NP_114116,       61 dsedpldpah vssasssgrp halpeirpyi nitilkgdkg dpgpmglpgy mgregpqgep
+NP_114116,      121 gpqgskgdkg emgspgapcq krffafsvgr ktalhsgedf qtllfervfv nldgcfdmat
+NP_114116,      181 gqfaaplrgi yffslnvhsw nyketyvhim hnqkeavily aqpsersimq sqsvmldlay
+NP_114116,      241 gdrvwvrlfk rqrenaiysn dfdtyitfsg hlikaedd
+NP_001244361,        1 mnlrglfqdf npskfliyac lllfsvllal rldgiiqwsy wavfapiwlw klmvivgasv
+NP_001244361,       61 gtgvwarnpq yraegetcve fkamliavgi hllllmfevl vcdriergsh fwllvfmplf
+NP_001244361,      121 fvspvsvaac vwgfrhdrsl eleilcsvni lqfifialrl dkiihwpwlv vcvplwilms
+NP_001244361,      181 flclvvlyyi vwsvlflrsm dviaeqrrth itmalswmti vvplltfeil lvhkldghna
+NP_001244361,      241 fscipifvpl wlslitlmat tfgqkggnhw wfgirkdfcq flleifpflr eygnisydlh
+NP_001244361,      301 hedneeteet pvpeppkiap mfrkkarvvi tqspgkyvlp ppklniempd
+NP_001244569,        1 maavkastsk atrpwyshpv yarywqhyhq amawmqshhn ayrkavescf slpsyfppal
+NP_001244569,       61 lpqssydnqa aypqsfydhh lawqdypcss shfgrsgqhp hyssriqast redqalskee
+NP_001244569,      121 emetesdaev ecdlsnmeit eelrqyfaet erhreerrrq qqldaerlns yvnadhdlyc
+NP_001244569,      181 ntrrsieapt erpgerrqae mkrlygdsaa kiqameaavq lsfdkhcdrk qpkywpvipl
+NP_001244569,      241 kf
+NP_001244807,        1 mfrcgglaag alkqklvplv rtvcvrsprq rnrlpvvqsh hlgspsrsla stgasgkdgs
+NP_001244807,       61 nlvyflivga tvtgagvyya ykiikedekr ynerisglgl tpeqkqkkaa lsasegeevp
+NP_001244807,      121 qdrvpshvpf lligggtaaf aaarsirard pgarvlivse dpelpymrpp lskelwfsdd
+NP_001244807,      181 pnvtktlrfk qwngkersiy fqppsfyvsa qdlphiengg vavltgkkvv qldvrgnmvk
+NP_001244807,      241 lndgsqitye kcliatggtp rslsaidrag aevksrttlf rkigdfrsle kisrevksit
+NP_001244807,      301 iigggflgse lacalgrkar algteviqlf pekgnmgkil peylsnwtme kvrregvkvm
+NP_001244807,      361 pnaivqsvgv ssgklliklk dgrkvetdhi vaavglepnv elaktgglei dsdfggfrvn
+NP_001244807,      421 aelqarsniw vagdaacfyd iklgrrrveh hdhavvsgrl agenmtgaak pywhqsmfws
+NP_001244807,      481 dlgpdvgyea iglvdsslpt vgvfakataq dnprsateqs gtgirseset eseaseiaip
+NP_001244807,      541 pstpavpqap vqgedygkgv ifylrdkvvv givlwnifnr mpiarkiikd geqhedlnev
+NP_001244807,      601 aklfnihed
+NP_004335,       1 masnfkkanm asssqrkrms pkpelteeqk qeireafdlf dadgtgtidv kelkvamral
+NP_004335,       61 gfepkkeeik kmiseidkeg tgkmnfgdfl tvmtqkmsek dtkeeilkaf klfdddetgk
+NP_004335,      121 isfknlkrva kelgenltde elqemidead rdgdgevseq eflrimkkts ly
+NP_055195,        1 manihqenee meqpmqngee drplgggegh qpagnrrgqa rrlapnfrwa ipnrqindgm
+NP_055195,       61 ggdgddmeif meemreirrk lrelqlrncl rilmgelsnh hdhhdefclm p
+NP_036410,        1 msllcrnkgc gqhfdpntnl pdscchhpgv pifhdalkgw sccrkrtvdf seflnikgct
+NP_036410,       61 mgphcaeklp eapqpegpat ssslqeqkpl nvipksaetl rrerpkselp lkllplnisq
+NP_036410,      121 alemaleqke ldqepgagld slirtgsscq npgcdavyqg pesdatpcty hpgaprfheg
+NP_036410,      181 mkswsccgiq tldfgaflaq pgcrvgrhdw gkqlpascrh dwhqtdslvv vtvygqiplp
+NP_036410,      241 afnwvkasqt elhvhivfdg nrvfqaqmkl wgvinveqss vflmpsrvei slvkadpgsw
+NP_036410,      301 aqlehpdala kkaragvvle mdeeesddsd ddlswteeee eeeamge
+NP_005756,        1 mavfvvllal vagvlgnefs ilkspgsvvf rngnwpipge ripdvaalsm gfsvkedlsw
+NP_005756,       61 pglavgnlfh rpratvmvmv kgvnklalpp gsvisyplen avpfsldsva nsihslfsee
+NP_005756,      121 tpvvlqlaps eervymvgka nsvfedlsvt lrqlrnrlfq ensvlsslpl nslsrnnevd
+NP_005756,      181 llflselqvl hdissllsrh khlakdhspd lyslelagld eigkrygeds eqfrdaskil
+NP_005756,      241 vdalqkfadd myslyggnav velvtvksfd tslirktrti leakqaknpa spynlaykyn
+NP_005756,      301 feysvvfnmv lwimialala viitsyniwn mdpgydsiiy rmtnqkirmd
+NP_001857,        1 mfplvksaln rlqvrsiqqt marqshqkrt pdfhdkygna vlasgatfci vtwtyvatqv
+NP_001857,       61 giewnlspvg rvtpkewrnq
